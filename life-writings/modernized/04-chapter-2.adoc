@@ -1,8 +1,10 @@
 == Chapter I.
 
-His early convictions and religious experience--When a soldier at Scarborough,
-powerfully awakened by the ministry of William Dewsbury--Engaged as a
-minister previous to quitting the army--An Epistle of caution and counsel.
+[.chapter-synopsis]
+* His early convictions and religious experience
+* When a soldier at Scarborough, powerfully awakened by the ministry of William Dewsbury
+* Engaged as a minister previous to quitting the army
+* An Epistle of caution and counsel
 
 +++[+++Of the place or exact period of John Whitehead`'s birth, no account has been found;
 but it seems probable from some circumstances mentioned in this compilation,
@@ -14,6 +16,9 @@ and we learn from the ancient records of the meetings for discipline in Lincolns
 that his residence during the remainder of his life, from 1683 to 1696,
 was in the neighbourhood of Lincoln.
 His own account of his life commences as follows:]
+
+[.small-break]
+'''
 
 In the days of my youth I lived without the fear of God;
 though he was a reprover of me from my childhood: yet I hearkened not to his reproof,
@@ -157,7 +162,7 @@ and was probably about twenty-two years of age.
 {footnote-paragraph-split}
 William
 Dewsbury commenced his Gospel labours in the Eighth Month,
-1652, at which time, according to his own account (see Life of W. D.),
+1652, at which time, according to his own account (see [.book-title]#Life of W. D.#),
 he was engaged "`in obedience to the command of the Lord, to run to and fro,
 to declare to souls where their Teacher is--the Light in their consciences.`"
 His visit to Scarborough, as above alluded to,
@@ -196,6 +201,9 @@ if I would be his disciple I must deny myself and take up his cross daily and fo
 and by the power of his Word my will was brought into the cross,
 and I was separated from my former companions and from conformities to the world,
 to wait upon God in the way of his judgments.
+
+[.small-break]
+'''
 
 +++[+++In contemplating the Christian experience of individual
 members of our Society at its origin,
@@ -245,8 +253,8 @@ inward and efficacious religion of the Gospel.
 
 T+++.+++ Thompson, in his Testimony Concerning John Whitehead,^
 footnote:[In the work from which the present volume is compiled,
-this Testimony is signed, Theo.
-Thomson, Skipsea;
+this Testimony is signed, _Theo.
+Thomson,_ Skipsea;
 but there appears good reason to conclude that the writer`'s name should have stood Tho.
 Thompson.
 A careful examination of the Registers of York Quarterly Meeting, etc.,
@@ -281,6 +289,10 @@ which then was manifested in our assemblies.`"
 
 The following Letter, without date, was probably written about this time:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Brethren and Sisters,
 
 You who are begotten again of the Word of Truth,
@@ -358,10 +370,18 @@ Let this be read among you when you are met together.
 
 Written from the spirit of the Lord, by your brother in the truth of the gospel.
 
+[.signed-section-signature]
 John Whitehead.
+
+[.postscript]
+====
 
 I am now about to go into the Moors,
 where I hear there is much hungering after the Truth;
 when I shall return I know nothing of.
 Therefore pray for me,
 that I may be kept faithful to declare the Truth as it is revealed in me.
+
+====
+
+--

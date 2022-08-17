@@ -38,7 +38,11 @@ the great Captain of our salvation.
 In this preface I would caution and inform the reader of some things,
 that he may not ignorantly be displeased, or under any reasonable disappointment.
 
-First, then, he is not to expect the learning of the schools,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ then, he is not to expect the learning of the schools,
 unless that of the prophets, and of the enlightened and spiritual generations of men,
 and of a plain, sound and practical knowledge,
 to be felt as evidently by those that are in any measure
@@ -47,7 +51,8 @@ as darkness was said to be felt in the land of Egypt, may merit the name of lear
 (as to be sure it does in the school of the cross of Christ,) and then
 he will not be disappointed in the perusal of the following book.
 
-Neither, secondly, has this godly author laboured a nice or polished style,
+[.numbered]
+Neither, _secondly,_ has this godly author laboured a nice or polished style,
 which men usually do, to give a lustre to, or varnish their matter with,
 but he writes as an enlightened and experienced man.
 It is the way of God to reveal and recommend his dispensations to the world,
@@ -97,7 +102,8 @@ though their lusts render the way too strait for them to be willing to walk in,
 which proves the perdition of those to whom the gospel-call or light comes,
 and who refuse to be reformed.
 
-Thirdly, let him read therefore with an inward as well as with an outward eye,
+[.numbered]
+_Thirdly,_ let him read therefore with an inward as well as with an outward eye,
 and read no faster than he feels and understands in himself,
 and bring things to the inward test and touchstone.
 And if he has not attained to the experience of these truths,
@@ -133,6 +139,8 @@ sanctifier and converter of the soul of man; that which gives him sight, hearing
 feeling and tasting of heavenly things;
 without which man is as unable to see and search the deep things of God,
 as his outward eyes are to see any outward object in the dark.
+
+====
 
 Therefore to this Divine agent, that works the works of God within us and for us,
 and that reveals to us the mysteries of Christ`'s kingdom,
@@ -172,4 +180,5 @@ though to the church a loss;
 for we are assured that they that turn many to righteousness (as he has done,
 as well as confirmed the churches) shall shine as the stars forever and ever.
 
+[.signed-section-signature]
 William Penn
