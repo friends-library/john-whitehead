@@ -1,15 +1,21 @@
 == Chapter VII.
 
-Letter to Friends in Hull--Letter to such as have been convinced
-of sin--"`The Testimony of John Whitehead`" written near the time
-of his release from Lincoln Castle--A Manifestation of Truth.
+[.chapter-synopsis]
+* Letter to Friends in Hull--Letter to such as have been convinced of sin
+* [.book-title]#The Testimony of John Whitehead# written near the time of his release from Lincoln Castle
+* A Manifestation of Truth.
 
 +++[+++After having been, in this arbitrary manner, remanded to prison,
 John Whitehead manifested his unabated concern for the spiritual welfare of his fellow-professors,
 by the following weighty letters:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Friends in Hull
 
+[.salutation]
 Dear Friends,
 
 Both in bonds and out of bonds, I am in a sense of all your trials;
@@ -36,16 +42,24 @@ so will the Lord look upon your affliction,
 and in righteousness plead your cause by his witness in all consciences.
 In tender love to you all I rest,
 
+[.signed-section-closing]
 Your friend and companion in tribulation,
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Lincoln Castle, the 20th day of the Eleventh Month, 1661.
 
-To All Such as have been Convinced of Sin, and Enlivened by the Quickening Spirit of God.
-John Whitehead, Prisoner for the Testimony of Jesus in the Castle of Lincoln,
-with the Dearest Salutation of Love Sendeth these Lines.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== To All Such as have been Convinced of Sin, and Enlivened by the Quickening Spirit of God. John Whitehead, Prisoner for the Testimony of Jesus in the Castle of Lincoln, with the Dearest Salutation of Love Sendeth these Lines.
+
+[.salutation]
 Dear Friends,
 
 All wait in the Spirit, that your minds may be kept spiritual and stayed on the Lord;
@@ -85,10 +99,16 @@ though others, who for a time have flourished in profession,
 do fall at your right hand and at your left;
 so shall you be instruments of eternal praise unto God forever.
 
+[.signed-section-context-close]
 The 31st day of the Eleventh Month, 1661.
 
-The Testimony of our Dear Friend John Whitehead,
-When he was Prisoner in the Castle of Lincoln, for the Truth`'s Sake, 1661.
+--
+
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== The Testimony of our Dear Friend John Whitehead, When he was Prisoner in the Castle of Lincoln, for the Truth`'s Sake, 1661.
 
 The Word of Life doth open my heart, which is filled with love unto you all;
 out of the abundance of which,
@@ -129,22 +149,32 @@ till you have fought the good fight of faith through
 afflictions and overcome the wicked one;
 for then shall the Lord be your portion, and he will crown you with life everlasting.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 1661.
+
+[.postscript]
+====
 
 At this time my testimony is near finished in this place;
 for the Lord put it into my heart, to write to the judge;
 and the witness of God pleading my cause, though I did not appear before him,
 yet he hath set me at liberty, as one innocent,
 and was displeased with the justices for their illegal proceeding against me.
-And now I wait to be ordered by the Lord in bis service: seeing nothing,
+And now I wait to be ordered by the Lord in his service: seeing nothing,
 but after a very short space, I must pass into Yorkshire,
 where I have a testimony to finish, either in bonds or at liberty, as the Lord will,
 into whose power I commit myself and you my dear Friends; breathing,
 that we may never be weary of well-doing till we have run the race set before us.
 
+====
+
+[.signed-section-signature]
 John Whitehead.
+
+--
 
 +++[+++Soon after John Whitehead`'s release from Lincoln Castle, he proceeded,
 according to his prospect, "`to finish his testimony in Yorkshire.`"
@@ -163,8 +193,13 @@ been written soon after his discharge from this last imprisonment.
 It consists of a faithful remonstrance to an opposer,
 and an instructive compendium of Christian faith and practice; it is entitled,]
 
+[.embedded-content-document]
+--
+
+[.blurb]
 A Manifestation Of Truth
 
+[.salutation]
 Friendly Reader,
 
 I have lately received in manuscript a small book, which, in the fear of the Lord,
@@ -173,7 +208,7 @@ This I was the more induced to do, because I had some ground to suspect,
 if not to conclude,
 that it was written by one who hath been famous for
 the profession that he hath made of Christianity.^
-footnote:[The Lord Say.]
+footnote:[_The Lord Say._]
 And therefore I should admire,
 but that I know that the pleasure of the Lord is to "`destroy the wisdom of the wise,
 and to bring to nothing the understanding of the prudent;`" (1
@@ -225,7 +260,7 @@ and made us stand in the sufficiency of his grace in the sight of our enemies;
 and I know that his presence is yet with us and that "`we are of him,`" and not
 of that spirit that they were of at Munster who followed John of Leyden,^
 footnote:[John Bochold was a tailor of Leyden--hence called John of Leyden.
-He was a leader of a seditious section of the Anabaptists, who in 1533 seized on Munster,
+He was a leader of a seditious section of the _Anabaptists,_ who in 1533 seized on Munster,
 the capital of Westphalia,
 under the fanatical pretext of a divine commission
 to establish the kingdom of Christ upon earth.
@@ -301,7 +336,8 @@ than particularly to traduce the author with whom I have to deal;
 though in many things more I could show wherein he has wronged us,
 and given unsound constructions both of Scripture and of our doctrines and practices.
 
-Concerning the Scriptures, and Concerning the Word, Spirit, and Light Within
+[.blurb]
+=== Concerning the Scriptures, and Concerning the Word, Spirit, and Light Within
 
 Concerning the Scriptures, I say--we do not slight them,
 nor cast them off as a dead letter, paper and ink;
@@ -350,7 +386,8 @@ for all these things are condemned by the Light;
 and they that believe and do such things,
 go from and against the Light in their own consciences.
 
-Concerning the Trial of Spirits
+[.blurb]
+=== Concerning the Trial of Spirits
 
 The Apostles gave forth no such command,
 as that we should try the Spirit of God by the Scriptures;
@@ -390,7 +427,8 @@ but the blasphemy against the Holy Spirit shall not be forgiven,
 neither in this world nor in that which is to come.
 (Matt. 12:31-32)
 
-Concerning Perfection
+[.blurb]
+=== Concerning Perfection
 
 We say first, that we have sinned and God hath let us see our sin,
 and he hath forgiven it through the blood of Christ,
@@ -443,7 +481,8 @@ say) but to encourage people to wait to be cleansed,
 and kept by the mighty power of God from all unrighteousness,
 (which is all sin) and to press on to perfection in the life of Christ.
 
-Concerning Salvation by Christ
+[.blurb]
+=== Concerning Salvation by Christ
 
 We say and believe, that without the sufferings and death of Christ at Jerusalem,
 no man can be saved, justified or sanctified; and therefore do they maliciously,
@@ -472,7 +511,8 @@ and follow after him that they may be made righteous,
 and have that boldness in the day of judgment, which the ancient Christians had,
 "`because,`" said they, "`as He is, so are we in this world.`" 1 John 4:17.
 
-Concerning Swearing
+[.blurb]
+=== Concerning Swearing
 
 To swear at all in Gospel times, is no part of God`'s worship;
 therefore it is no delusion, but the Truth, that makes us refuse to swear in any case.
@@ -517,8 +557,8 @@ nor by earth nor the things therein, nor by any other oath, though by such Chris
 as are in the apostasy from the Spirit and Life of Christ, it be accounted, lawful;
 for if we did swear at all, we should justly fell with them into the same condemnation.
 
-Concerning the Worship of God,
-and Why we Separate from them that Worship in "`Temples Made with Hands`"
+[.blurb]
+=== Concerning the Worship of God, and Why we Separate from them that Worship in "`Temples Made with Hands`"
 
 Because we thus believe and declare,
 that "`God is a Spirit,`" (John 4:24) and "`dwelleth not in temples
@@ -571,7 +611,8 @@ as the manner of some is, but must meet together in the name of the Lord Jesus C
 (Heb. 10:25; Matt. 18:20) that we may enjoy his presence,
 and comfort and edify one another in love.
 
-Concerning Ministers and their Maintenance
+[.blurb]
+=== Concerning Ministers and their Maintenance
 
 We say--how shall they preach and declare unto us the mind of God,
 except they be chosen and sent of God?
@@ -634,7 +675,8 @@ had "`hearts exercised with covetous practices;`" and such
 "`not sparing the flock;`" therefore we turn from them to the Chief Shepherd,
 who hath redeemed us from being a prey to them.
 
-Concerning Women`'s Speaking
+[.blurb]
+=== Concerning Women`'s Speaking
 
 That daughters did prophesy in the congregation of God`'s ancient people, is evident;
 for to Israel God spoke by Miriam, in the days of Moses; and again,
@@ -658,8 +700,8 @@ nor usurp authority over the man, yet he did permit the Spirit of God to speak i
 as we do; for we dare not forbid it, lest in so doing we should quench the Spirit,
 which they have the promise of, as well as men.
 
-Concerning Superiors and Inferiors, and the Honour that is Due from the One to the Other:
-also Concerning Titles, Courtesy, and Salutation by the Way
+[.blurb]
+=== Concerning Superiors and Inferiors, and the Honour that is Due from the One to the Other: also Concerning Titles, Courtesy, and Salutation by the Way
 
 In the beginning God "`created all nations of one blood to dwell upon
 the face of the whole earth,`" that they might glorify his name,
@@ -774,4 +816,7 @@ for on no man`'s conscience would we impose anything which he cannot freely rece
 no more than we would be imposed upon; for it is our principle, "`to do unto all men,
 even as we would be done unto.`"
 
+[.signed-section-context-close]
 Written the 24th day of the Second Month, 1662.
+
+--
