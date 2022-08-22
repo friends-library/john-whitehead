@@ -1,9 +1,13 @@
 == Chapter V.
 
-Imprisoned at Boston--Abused at York--Imprisoned at Aylesbury--Letter
-to Friends--Salutation to the Lord`'s people--A small Treatise,
-(containing some account of his own experience, the character and calling of Friends,
-etc.)--Address to the Judges and Justices at Aylesbury Assizes.
+[.chapter-synopsis]
+* Imprisoned at Boston
+* Abused at York
+* Imprisoned at Aylesbury
+* Letter to Friends
+* Salutation to the Lord`'s people
+* A small Treatise, (containing some account of his own experience, the character and calling of Friends, etc.)
+* Address to the Judges and Justices at Aylesbury Assizes
 
 +++[+++In the year 1658,
 John Whitehead was imprisoned by the mayor of Boston
@@ -22,6 +26,8 @@ The following short extract, from The Christian Progress of George Whitehead,
 under date of 1659, shows that John Whitehead was, in the course of that year,
 engaged in promoting the cause of Truth in Cambridgeshire, etc.:--]
 
+[quote]
+____
 One James Bedford, priest of Bluntsham and Erith, in Huntingdonshire,
 having made a great noise, boasting and clamour, against the people called Quakers,
 to render them ridiculous and odious,
@@ -35,6 +41,7 @@ where I was present, (but did not much interpose,
 the appointment being between the priest and John,)
 I observed the priest to be a mere empty,
 confident boaster and reviler, and made but poor work of it.
+____
 
 +++[+++In the Eleventh Month, 1660, John Whitehead was, with seven others,
 committed to Aylesbury Jail for refusing to take the oath of allegiance;
@@ -43,8 +50,13 @@ for the purpose of thus making a prey of them.
 It would seem by the date of the last of the three next following documents,
 written during this imprisonment, that he was confined this time at least three months.]
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 John Whitehead to Friends
 
+[.salutation]
 Dear Friends,
 
 Both sons and daughters, amongst whom I have travailed,
@@ -175,18 +187,31 @@ that therewith they may love their enemies;--that thy witness may arise in them,
 and clear the innocency of thy own people:--for we have fled unto thee for refuge,
 and can use no other weapon to plead our cause but the words of thy mouth.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Written in the prison house in Aylesbury, the Second of Twelfth Month, 1660.
+
+[.postscript]
+====
 
 This to go amongst Friends, to be read when they are met together in the fear of God,
 with understanding; and likewise to be sent to the prisons,
 to be read amongst Friends who suffer for Truth`'s, sake.
 Fail not to communicate it one to another.
 
-A Salutation to the Lord`'s People, To be Read in their Meetings and Prisons,
-for their Further Refreshing and Building up in That which is Holy.
+====
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== A Salutation to the Lord`'s People, To be Read in their Meetings and Prisons, for their Further Refreshing and Building up in That which is Holy.
+
+[.salutation]
 Dear Brethren,
 
 In the Seed immortal and incorruptible, in the dearest life and love of God,
@@ -250,22 +275,25 @@ that therein they may retain the adoption of children:
 and cause the sons of men to dwell together in thy love,
 who art the God of the spirits of all flesh.
 
+[.signed-section-closing]
 Written in Aylesbury Prison, by
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 The Eighth day of the Second Month, 1661.
 
-A Small Treatise,
+--
 
-Wherein is briefly declared some of those things which I have heard, and seen,
-and learned of the Father.
-With a Testimony against such as do or shall invent forms of doctrine or worship,
-and by outward force compel people thereto.
-Here is also the calling and work of that ministry
-which is owned by the people of God called Quakers,
-in short spoken of: and a true character given of their temper of spirit, manner of life,
-and worship: wherein is briefly hinted, what God hath done, and will do for them.
+[.embedded-content-document.treatise]
+--
+
+[.blurb]
+=== A Small Treatise,
+
+[.blurb]
+=== Wherein is briefly declared some of those things which I have heard, and seen, and learned of the Father. With a Testimony against such as do or shall invent forms of doctrine or worship, and by outward force compel people thereto. Here is also the calling and work of that ministry which is owned by the people of God called Quakers, in short spoken of: and a true character given of their temper of spirit, manner of life, and worship: wherein is briefly hinted, what God hath done, and will do for them.
 
 Written for the satisfaction of such as desire to know them,
 and the things that are most surely believed amongst them;
@@ -577,7 +605,11 @@ having had a certain knowledge thereof from the day that God showed himself unto
 for a testimony against false Christians, and such as shall hereafter live ungodly,
 write this declaration:--
 
-First,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_
 generally they are a people that have been of a sorrowful
 spirit and acquainted with grief;
 having had a true sense of their lost estate and separation from God because of sin;
@@ -631,7 +663,8 @@ waiting and longing that his righteousness may be revealed to reign in men,
 till the knowledge and glory of God overspread the whole earth,
 and his kingdom come over all.
 
-Secondly, touching their manner of life,--though it be well known to many,
+[.numbered]
+_Secondly,_ touching their manner of life,--though it be well known to many,
 and needs not my recommendation; yet for a testimony against wickedness in ages to come,
 let it stand upon record, that, as God is most just, merciful,
 righteous and equal in all his ways, so they whom he hath created anew,
@@ -703,7 +736,8 @@ when both the righteous and the wicked shall be rewarded
 according to the deeds done in the body,
 whether they be good or evil.
 
-Thirdly, touching their worship--therein they are not bound up to any form,
+[.numbered]
+_Thirdly,_ touching their worship--therein they are not bound up to any form,
 esteeming only that worship pure, which is in Spirit and Truth;
 and above all things judging it their duty to wait
 in Spirit to be taught what God requires of them;
@@ -721,6 +755,8 @@ therefore they rest in a silent dependence upon God,
 to hear the words which proceed out of his mouth, by which their souls live.
 In this dependence and waiting upon God, they have received many heavenly gifts,
 as the discerning of spirits, prophecy, the Word of life, of wisdom and knowledge.
+
+====
 
 And the power of the world to come hath mightily wrought in them,
 and manifested the treasures of that world unto them;
@@ -851,15 +887,19 @@ will refresh the inhabitants thereof with mercy, and visit the nations with his 
 that their desire, with the restitution of all things, may be accomplished,
 and God over all exalted with righteousness, to rule the whole earth.
 
+[.signed-section-context-close]
 Written in the Prison-house in Aylesbury, the Third Month, 1661.
+
+--
 
 +++[+++It is likely that the following impressive Christian remonstrance to the Judges, etc.,
 was written a short time before John Whitehead`'s release from Aylesbury Jail:]
 
-For the Judges of the Assize, and Justices of the Peace, Sitting at Aylesbury:
-for them to Read and Consider these Particular Things Following,
-in the Fear and Wisdom of God; and to Do Thereupon what unto Law,
-Justice and Righteousness shall Appertain.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== For the Judges of the Assize, and Justices of the Peace, Sitting at Aylesbury: for them to Read and Consider these Particular Things Following, in the Fear and Wisdom of God; and to Do Thereupon what unto Law, Justice and Righteousness shall Appertain.
 
 We who are called Quakers, have been for many years men of a sorrowful spirit,
 and many of us well acquainted with grief,
@@ -1000,6 +1040,10 @@ and remain true friends to the King and his just Government, in a meek and quiet
 which is to us of great price: and we may not part with it,
 whatever is suffered to be done unto us.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Written in Aylesbury Jail, in the Year 1661.
+
+--
