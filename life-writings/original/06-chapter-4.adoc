@@ -1,6 +1,8 @@
 == Chapter III.
 
-A Vindication of Sound Doctrine and Practice--Three Epistles to Friends.
+[.chapter-synopsis]
+* A Vindication of Sound Doctrine and Practice
+* Three Epistles to Friends
 
 And now to clear my conscience in the presence of the Lord God,
 that the minds of the simple may be informed,
@@ -403,9 +405,13 @@ praised be the name of the Lord forever.
 +++[+++During this imprisonment in Northampton Jail,
 John Whitehead wrote the three following Epistles:]
 
-An Epistle +++[+++of Christian Counsel and Encouragement,]
-to be Read Among Friends, When they are Met Together to Wait upon God in His Fear.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== An Epistle +++[+++of Christian Counsel and Encouragement,] to be Read Among Friends, When they are Met Together to Wait upon God in His Fear.
+
+[.salutation]
 Dear Friends,--
 
 Whose minds are turned to the Light,--in the name
@@ -525,10 +531,18 @@ and a boasting spirit get up in the sight of that which you possess not.
 From the Common Jail in Northampton, where we are eight in prison for the Truth`'s sake;
 but the presence of God is our life and liberty.
 
+[.signed-section-context-close]
 The 5th day of the Third Month, 1655.
 
-An Epistle +++[+++Exhorting to Abide in the Light.]
+--
 
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== An Epistle +++[+++Exhorting to Abide in the Light.]
+
+[.salutation]
 All Dear Friends In The Truth,
 
 With whom I am present in spirit--take heed of deceit,
@@ -663,12 +677,21 @@ With tender bowels of love I salute all dear babes of God,
 who am your dear brother in the everlasting covenant of our Father`'s love,
 and a prisoner of Jesus Christ.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Northampton Jail, the 11th of the Sixth Month, 1655.
 
-An Epistle +++[+++Against Worldliness, etc.]
+--
 
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== An Epistle +++[+++Against Worldliness, etc.]
+
+[.salutation]
 Dear Friends,
 
 Every one, in the measure of Light, wait and be faithful;
@@ -722,4 +745,7 @@ which will keep your hearts pure and single in the sight of God.
 From the Common Jail in Northampton,
 where I am a prisoner for the testimony of Jesus Christ.
 
+[.signed-section-context-close]
 The 12th day of the Eighth Month 1655.
+
+--

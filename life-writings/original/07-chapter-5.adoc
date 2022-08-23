@@ -1,8 +1,11 @@
 == Chapter IV.
 
-His release from Northampton Jail--Letter to William Dewsbury--Account
-of two meetings in Yorkshire--Testimonies to John Whitehead`'s
-qualifications as a gospel minister--An Address to certain professors.
+[.chapter-synopsis]
+* His release from Northampton Jail
+* Letter to William Dewsbury
+* Account of two meetings in Yorkshire
+* Testimonies to John Whitehead`'s qualifications as a gospel minister
+* An Address to certain professors
 
 +++[+++After having been confined nearly ten months in Northampton Jail,
 John Whitehead and his fellow-prisoners were liberated in the Twelfth Month, 1655,
@@ -12,10 +15,16 @@ It appears by the following letter, copied from the Records of York Quarterly Me
 and dated--Newport-Pagnel, the 24th of the Twelfth Month, 1655,
 that John Whitehead resumed his gospel labours about as soon as he was set at liberty.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Dewsbury
 
+[.salutation]
 Dear Brother,
 
+[.offset]
 In the pure unchangeable love I do salute thee.
 
 Since I was with thee,
@@ -62,7 +71,11 @@ My dearly beloved, cease not to pray for me,
 that I may go on in the dread and power of the living God, who is over all,
 and causes the heathen to fall before him to his own praise and glory.
 
+[.signed-section-signature]
 John Whitehead.
+
+[.postscript]
+====
 
 As thou art free, let me hear from thee what way thou movest;
 and if Joseph Storr be with thee, salute me to him, and to Sebastian Elthorp, who,
@@ -72,9 +85,15 @@ I shall be about Henry Heaves on the next Fifth-day.
 Anne Sherwood dearly salutes thee in the Lord.
 To Wm. Dewsbury, at Baldock, or elsewhere he is, these.
 
+====
+
+--
+
 +++[+++In the year 1656, John Whitehead held some meetings in Yorkshire.
 T+++.+++ Thompson gives the following circumstantial account of two of them:]
 
+[quote]
+____
 Upon the 25th day of the Third Month, 1656, being the first-day of the week,
 he had a meeting at Hunmanby, on the Wolds,
 +++[+++an elevated tract of country in the East Eiding], where no Friends had been before;
@@ -150,11 +169,15 @@ and Colson not being able to gainsay what was spoken, went his way.
 After he was gone, we had a precious meeting; the people were well satisfied,
 and Friends were comforted in the goodness of the Lord;
 praises over all be ascribed to our God, who is God of heaven and earth, blessed forever.
+____
 
 +++[+++As a minister of the gospel,
 John Whitehead was highly esteemed by his brethren for his work`'s sake;
 and it may not be improper to introduce in this place the testimony of some of
 them respecting his diligence and qualifications in this character:--]
+
+[.embedded-content-document.testimony]
+--
 
 Dear John was indeed wonderfully qualified and richly fitted for the work of the ministry,
 into which he was called of the Lord; and he was valiant for the Truth upon the earth,
@@ -198,6 +221,8 @@ a heavenly testimony he had for all sorts of people--a word in due season from t
 in his preaching never very large, but short, sound,
 and very weighty.--From John Burton`'s Testimony.
 
+--
+
 +++[+++The following letter,
 entitled "`A Reproof from the Lord,`" is addressed "`to certain professors,
 whose habitations are in and about Hull and Beverley,
@@ -225,8 +250,13 @@ for truly this doctrine was not such as "`fed that which reached to the tree
 of knowledge,`" but taught rather a subjection of the heart to the divine requirings,
 and tended to humble the pride and wisdom of the natural man.]
 
-A Reproof from the Lord
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== A Reproof from the Lord
+
+[.salutation]
 Friends,
 
 Consider how you are puffed up in your knowledge, and your hearts waxed fat,
@@ -538,3 +568,5 @@ commending it to your consciences in the sight of God,
 where I look to be made manifest when the book is opened; and till then,
 I am willing to bear your reproaches,
 and to be accounted your enemy for declaring the Truth.
+
+--
