@@ -1,10 +1,14 @@
 == Chapter VI.
 
-Apprehended at Binbrook,
-and committed to Lincoln Castle--An Epistle of Counsel and Encouragement--Letter
-to faithful Friends--Letter to Friends in Hull,
-etc.--John Whitehead is taken to the Sessions at Castor--Unfair and abusive
-conduct of the court--Address to the justices--Remanded to prison.
+[.chapter-synopsis]
+* Apprehended at Binbrook, and committed to Lincoln Castle
+* An Epistle of Counsel and Encouragement
+* Letter to faithful Friends
+* Letter to Friends in Hull, etc.
+* John Whitehead is taken to the Sessions at Castor
+* Unfair and abusive conduct of the court
+* Address to the justices
+* Remanded to prison
 
 +++[+++Under the influence of that love which unites the flock of Christ, as sheep of one fold,
 John Whitehead went on the 13th of the Ninth Month, 1661,
@@ -26,6 +30,9 @@ On this ground he was sent to Lincoln Castle, where he remained three months.
 
 It will be seen by the Epistles, etc., which now follow, that he was,
 during this imprisonment, assiduous in his endeavours to promote the cause of Truth.]
+
+[.embedded-content-document.epistle]
+--
 
 John Whitehead, a suffering servant of the Lord,
 unto the sheep of his pasture among whom he has laboured, wishes stability in grace,
@@ -242,7 +249,11 @@ you did it not unto me.`"
 And the righteous shall enter into everlasting life;
 but the wicked into everlasting punishment.
 
+[.signed-section-signature]
 John Whitehead.
+
+[.postscript]
+====
 
 The first copy of this was written in the Castle of Lincoln, the 22nd of the Ninth Month,
 1661.
@@ -252,10 +263,17 @@ among whom I have laboured while it was day, having peace,
 (in this hour of the world`'s darkness) in which I rest
 with all the brethren and Friends that are faithful.
 
-To All Faithful and Upright-Hearted Friends, Both in Bonds and at Liberty;
-but more Particularly Those in the Counties of Northampton, Buckingham, Bedford,
-Leicester, Hertford and Thereaway.
+====
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== To All Faithful and Upright-Hearted Friends, Both in Bonds and at Liberty; but more Particularly Those in the Counties of Northampton, Buckingham, Bedford, Leicester, Hertford and Thereaway.
+
+[.salutation]
 Dear Brethren And Fellow-sufferers,
 
 From the pure Fountain of Life, a living stream runs towards you all,
@@ -287,17 +305,32 @@ I was prevented by a feeling of a fresh stream of love to you all, as one body,
 knit together in the fellowship of the Spirit of God;
 in the comfort of which I lie down with you all, who am
 
+[.signed-section-closing]
 Your brother in the Truth,
 
+[.signed-section-signature]
 John Whitehead.
+
+[.postscript]
+====
 
 I shall be glad to hear from any of you, as you are moved and have opportunity;
 being prisoner for the Truth`'s sake, in the Castle of Lincoln.
 
+====
+
+[.signed-section-context-close]
 The 17th day of the Tenth Month, 1661.
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Friends in Hull, Holderness, etc.
 
+[.salutation]
 Dear Friends,
 
 In that ancient love wherein we have lived together many years,
@@ -362,9 +395,13 @@ so will his blessing and peace be among you forever:
 
 Which is the true desire and prayer of your ancient and steadfast friend in the Truth,
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 The 25th day of the Tenth Month, 1661.
+
+--
 
 +++[+++About two months after John Whitehead`'s commitment to Lincoln Castle,
 he was taken to the general Sessions held at Castor.
@@ -381,6 +418,9 @@ and so defectively did the magistrates fulfill the duties of their vocation,
 as ministers of justice, that some of them undertook, in a scurrilous manner,
 to condemn him before he had been heard, or evidence had been given against him.
 John Whitehead gives the following account of these proceedings:]
+
+[.small-break]
+'''
 
 William Broxolm, one of the magistrates on the bench, said he knew me;
 and I was one of the veriest rascals in England;
@@ -442,7 +482,11 @@ Seeing I could not be heard, it came upon me to write these lines following to t
 which were delivered into Edward Aiscough`'s hand,
 who said he would read them to the rest of his brethren.
 
-For the King`'s Justices, now sitting at Castor, these.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== For the King`'s Justices, now sitting at Castor, these.
 
 Friends,--In tender love I send you these lines, that you may consider,
 that God beholds you in the seat of judgment.
@@ -450,7 +494,7 @@ Therefore be wise, and not rash and hasty in judgment, lest,
 by untrue surmises and false reports, you condemn the innocent.
 For I am one that fears the Lord, loves the king,
 and seeks the peace of the land of my nativity,
-and therefore ought to have the benefit of the wholesome laws to which I was horn,
+and therefore ought to have the benefit of the wholesome laws to which I was born,
 that will no man to accuse himself; neither take any man`'s life, limb,
 liberty or estate, but by judgment of his peers.
 Therefore let me have a fair trial; and if I be found guilty of these things,
@@ -482,9 +526,13 @@ So I rest in love, your friend, and shall have peace with God,
 however you shall dispose of me; believing that the more we are afflicted,
 the more we shall increase and grow.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 The 15th day of the Eleventh Month, 1661.
+
+--
 
 Notwithstanding what I here proposed to them,
 and although none appeared against me that did or could

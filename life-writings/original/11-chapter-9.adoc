@@ -1,7 +1,10 @@
 == Chapter VIII.
 
-John Whitehead`'s second imprisonment at Lincoln--Letter to Judge Windham--Epistle "`for
-the Vineyard of the Lord`"--Address to professors of the Truth who are turned aside.
+[.chapter-synopsis]
+* John Whitehead`'s second imprisonment at Lincoln
+* Letter to Judge Windham
+* Epistle "`for the Vineyard of the Lord`"
+* Address to professors of the Truth who are turned aside
 
 +++[+++About five months after John Whitehead`'s release from this last imprisonment,
 he became again exposed to the persecuting spirit of the age.
@@ -12,6 +15,9 @@ as then administered.
 His narrative of the transactions relative to this
 portion of his sufferings for conscience sake,
 is as follows:]
+
+[.small-break]
+'''
 
 Upon the 8th of the Fifth Month, 1662,
 upon suspicion that I had met together with some sober people for the worship of God,
@@ -55,9 +61,16 @@ or his authority,) I could not take any oath;
 whereupon I was sent to prison, and kept there till the general jail delivery,
 by virtue of a mittimus, whereof this is a true copy:
 
-To the Keeper of His Majesty`'s Jail at the Castle of Lincoln,
-or to his Deputy or Deputies There.
+[.embedded-content-document.legal]
+--
 
+[.blurb]
+=== To the Keeper of His Majesty`'s Jail at the Castle of Lincoln, or to his Deputy or Deputies There.
+
+[.small-break]
+'''
+
+[.offset]
 Lincoln Lindsey.
 
 Foreasmuch as John Whitehead of Owstwick, in the county of York,
@@ -78,9 +91,13 @@ Given under our hands and seals, this ninth day of July,
 in the fourteenth year of his Majesty`'s reign, Anno Bom.
 1662.
 
+[.signed-section-signature]
 Martin Litster.
 
+[.signed-section-signature]
 John Boswell.
+
+--
 
 At the Assizes, or general jail delivery,
 begun at Lincoln the 19th day of the month called July, Woodham Windham sat as judge;
@@ -105,6 +122,10 @@ But surely he was afraid that the truth of our cause should appear before the co
 in whose presence he had sought to render us odious;
 whereat I gave him a hint in a letter, a true copy of which follows:--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,--
 
 I write unto thee in the name of the God of Heaven,
@@ -206,20 +227,31 @@ Thus have I cleared my conscience in witnessing the truth,
 and opening our case in some measure unto thee,
 who am a lover of justice and thy soul`'s friend.
 
+[.signed-section-signature]
 J+++.+++ Whitehead.
 
+[.signed-section-context-close]
 Lincoln Castle, the 20th day of the Fifth Month, 1662.
+
+--
 
 This letter was given into the judge`'s hand, and read by him;
 yet he would not hear our case, but ordered us to lie in prison till the Sessions,
 without rendering any reason for so doing.
+
+[.small-break]
+'''
 
 +++[+++In the interval between the Assizes and the next following Quarter Sessions,
 John Whitehead manifested his love to his fellow-professors,
 and his concern for the promotion of the cause of Truth,
 by giving forth the two following impressive Epistles.]
 
-For the Vineyard of the Lord of Hosts; to be Read in Their Meetings
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== For the Vineyard of the Lord of Hosts; to be Read in Their Meetings
 
 The breathings of a prisoner for the Testimony of Jesus,
 who in the deep hath seen the afflictions of his people,
@@ -576,16 +608,21 @@ that every eye may be opened to see that the common salvation which God
 hath prepared for all people is the Light that doth enlighten the Gentiles,
 and the glory of Israel.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Written in Lincoln Castle, the 24th day of the Sixth Month, 1662.
 
-The Case of such Professors as Have Known the Way of Truth,
-and are Turned Aside from its Holy Testimony, to Save Themselves, Opened and Lamented:
-With some Wholesome Warnings and Admonitions,
-Tending to Restore and Turn them Again to the Lord, That They may be Saved by Him,
-Both from the Evil and Punishment of Sin.
+--
 
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== The Case of such Professors as Have Known the Way of Truth, and are Turned Aside from its Holy Testimony, to Save Themselves, Opened and Lamented: With some Wholesome Warnings and Admonitions, Tending to Restore and Turn them Again to the Lord, That They may be Saved by Him, Both from the Evil and Punishment of Sin.
+
+[.salutation]
 Dear Hearts,--
 
 What lamentation shall I take up for you,--wherewith shall I sufficiently
@@ -731,23 +768,35 @@ who though we have been despised and reproached by the wise professors of this g
 yet are not of them that draw back to perdition, but press on to the end of our race:
 wherein I say, Follow us, as we follow Christ.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Lincoln Castle, the 16th day of the Seventh Month 1662.
+
+--
 
 === Chapter IX.
 
-Proceedings at the Quarter Sessions at Louth,--John Whitehead and
-other Friends remanded to prison--Epistle to Friends at Whitby,
-etc.--Two Letters to the Justices--Two Letters to Judge Wyndham--Sufferings of many
-Friends in Lincolnshire--Letter from Twelve Friends to the Justices at Spital--Letter
-from John Whitehead to the Justices at Louth--Discharged from Prison.
+[.chapter-synopsis]
+* Proceedings at the Quarter Sessions at Louth
+* John Whitehead and other Friends remanded to prison
+* Epistle to Friends at Whitby, etc.
+* Two Letters to the Justices
+* Two Letters to Judge Wyndham
+* Sufferings of many Friends in Lincolnshire
+* Letter from Twelve Friends to the Justices at Spital
+* Letter from John Whitehead to the Justices at Louth
+* Discharged from Prison
 
 Before the Quarter Session following, William Bancoft was released;
 some of the justices being moved hereunto by the imbecility and weakness of his old age;
 and at the Petty Sessions for the parts of Kesteven, William Morris was released:
 but John Cleasby and myself were carried to the General Sessions held at Louth,
 the 7th of Eighth Month.
+
+[.small-break]
+'''
 
 +++[+++Previous to their appearing before the court,
 John Whitehead and John Cleasby addressed a letter to the justices,
@@ -756,6 +805,9 @@ them in prison without allowing them a fair hearing;
 and in the character of "`peaceable men, who fear the Lord and love justice,
 truth and righteousness,`" pleaded for moderation and equity.
 John Whitehead then proceeds:]
+
+[.small-break]
+'''
 
 When we were brought before their judgment seat,
 no one appeared to accuse us of the breach of any law of God or man;
@@ -811,6 +863,10 @@ or house of correction for the space of three months.`"
 But they then forthwith sent us back to prison by the following
 order,--how contrary to law let the wise in heart judge:--
 
+[.embedded-content-document.legal]
+--
+
+[.offset]
 Lincoln Lindsey.
 
 Whereas John Whitehead and John Cleasby were by the Judge`'s order of the last Assize,
@@ -828,17 +884,27 @@ according to the said act in that case made and provided.^
 footnote:[Here the court ordered contrary to the law,
 which directs but to imprison for three months.]
 
+[.signed-section-context-close]
 Per curia`'
 
+[.signed-section-signature]
 Ex`' per Johannem Thornton,
 
+[.signed-section-context-close]
 Cleric`' Pac`'.
 
+[.signed-section-context-close]
 Dated 7th of October, 1662.
+
+--
 
 +++[+++Soon after this arbitrary re-commitment, John Whitehead wrote the following Epistle:]
 
-To Friends at Whitby, Osmotherley, and in Blackamores, Cleveland, Bishopric, and That Way.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== To Friends at Whitby, Osmotherley, and in Blackamores, Cleveland, Bishopric, and That Way.
 
 Feeling in my heart that love springing afresh, wherein I was first moved to visit you,
 and freely to administer unto you what the Lord freely gave unto me,
@@ -899,15 +965,25 @@ am to lie in prison till payment.
 But my time is in the hand of the Lord, who knows how to deliver me when he pleaseth;
 to whom I have given up myself, and do rest in his will.
 
+[.signed-section-closing]
 Your friend and brother,
 
+[.signed-section-signature]
 John Whitehead.
+
+[.postscript]
+====
 
 I shall be glad to see or hear from any of you as you have freedom,
 that I may perfectly know your state, and bear a part with you,
 both in sufferings and spiritual rejoicing.
 
+[.signed-section-signature]
 Lincoln Castle, the 25th of the Ninth Month, 1662.
+
+====
+
+--
 
 After we had been kept prisoners by the foregoing order,
 (which exceeds the rigour of the law,) at the next General Sessions, held at Louth,
@@ -915,7 +991,11 @@ the 13th of the Eleventh Month,
 (not being permitted to appear in court,) we represented our case to the justices,
 by this following writing, which was delivered into their hands:--
 
-For the King`'s Justices of Peace, at the General Sessions, held at Louth: these.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== For the King`'s Justices of Peace, at the General Sessions, held at Louth: these.
 
 Friends,--You may remember, that we whose names are subscribed,
 after we had endured imprisonment a quarter of a year,
@@ -948,11 +1028,16 @@ even as you would be done unto, if our case were your own.
 However we remain lovers of justice peace and truth,
 and shall ever desire your eternal good.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-signature]
 J+++.+++ Cleasby.
 
+[.signed-section-context-close]
 Lincoln Castle, the 12th day of the Eleventh Month 1662.
+
+--
 
 After the receipt of this, some of them acknowledged,
 that we having suffered more than the penalty of the law,
@@ -966,6 +1051,10 @@ and shows that they who have no justice nor truth on their side,
 have need of good memories, lest they confound themselves in their own doings,
 as these have done, who only accord in this,--unjustly to detain us in prison.
 
+[.embedded-content-document.legal]
+--
+
+[.offset]
 Lincoln Lindsey
 
 Whereas at the General Quarter Sessions of the peace, held at Louth,
@@ -1000,18 +1089,26 @@ that they and either of them will forbear to meet in any such assembly.
 Anything in the former recited Order contained to the contrary notwithstanding.
 Dated 13th of January, 1662.
 
+[.signed-section-context-close]
 Per`' Cur`'
 
+[.signed-section-signature]
 Thornton.
 
+[.signed-section-context-close]
 To the Keeper of his Majesty`'s Jail, of the Castle of Lincoln.
+
+--
 
 Notwithstanding this pretended discharge,
 and that we had suffered more than the law in that case requires,
 we could not have our liberty: whereupon we wrote to the justices as follows:--
 
-To William Wray, Robert Christopher, William Fitz Williams, William Woolley,
-Isaac Knight, John Bosswell, and to every of them.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== To William Wray, Robert Christopher, William Fitz Williams, William Woolley, Isaac Knight, John Bosswell, and to every of them.
 
 Friends,--A copy of your order given forth at your Sessions, held at Louth,
 the 13th of this month, we have obtained; whereby it appears, that you,
@@ -1080,9 +1177,13 @@ and the clerk you employ doth of his own head detain us, through envy against us
 it becomes you to correct him, and amend the faults whereby your power is abused,
 in sending us a free discharge according to law.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-signature]
 J+++.+++ Cleasby.
+
+--
 
 Notwithstanding this letter was received by some of them, they did not lay it to heart,
 neither did they consider our affliction so as to let us go free;
@@ -1092,6 +1193,9 @@ the 19th day of the First Month, called March, 1663, wherein Wadham Windham sat 
 to whom we with others were returned by the calendar;
 and we presented our case to him as followeth.
 
+[.embedded-content-document.letter]
+--
+
 Friend,--Since we understand that thou hast been for some years a judge in this nation,
 and art well acquainted with the good laws and customs of England,
 which abhor all arbitrary and illegal proceedings,
@@ -1099,7 +1203,11 @@ we are bold in this manner to represent our case, truly stated, unto thee;
 desiring that thou mayst duly consider how we have been dealt with,
 and do thereupon what to equity and justice doth appertain.
 
-First,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_
 We do here truly declare that John Whitehead and John Cleasby were
 sent to prison before the last Assizes that were holden at Lincoln,
 at which we expected to have had a legal trial,
@@ -1129,7 +1237,8 @@ let us either have a free discharge or a fair hearing;
 that the cause of our long suffering may be made manifest,
 which in justice we are persuaded ought not to be denied us.
 
-Secondly,
+[.numbered]
+_Secondly,_
 That Samuel Davy was taken from a peaceable meeting
 by soldiers without any warrant for that place,
 and committed to Spalding Bridewell till Sessions,
@@ -1143,7 +1252,8 @@ which for the first time he conceives to be but three months imprisonment,
 or five pounds fine, according to the statute;
 but he hath been detained a prisoner more than three months.
 
-Thirdly,
+[.numbered]
+_Thirdly,_
 That Edward Parish was sent for by a party of soldiers from
 his own house without any warrant from any justice of peace,
 and commanded to appear before the deputy-lieutenants,
@@ -1154,6 +1264,8 @@ because he (knowing himself innocent,) could not give bonds for good behaviour,
 and have ordered him to lie in prison till he either do the same,
 or be discharged by some of the deputy-lieutenants,
 or some of the justices of the peace for the parts of Lindsey.
+
+====
 
 And we do farther declare, That it is for our conscience sake that we cannot swear;
 and because we know nothing by ourselves worthy of bonds, we cannot give bonds;
@@ -1171,11 +1283,16 @@ as it hath been handed unto us by inferior magistrates.
 So expecting that thou wilt not deny those fair proceedings to us,
 which thou so freely allows to others, whose cases are criminal, we subscribe ourselves,
 
+[.signed-section-closing]
 Sufferers for conscience-sake,
 
+[.signed-section-signature]
 John Whitehead, John Cleasby, Samuel Davy, Edward Parish.
 
+[.signed-section-context-close]
 Lincoln Castle, the 12th of the First Month, 1663.
+
+--
 
 But the Judge did not call us at all, yet did he discharge Samuel Davy and Edward Parish,
 also John Cleasby whose case was the very same with mine, as may be perceived;
@@ -1184,6 +1301,9 @@ although he afforded me neither trial nor hearing,
 neither did any accuser openly appear to charge me
 with the breach of any law of God or man.
 Wherefore after I understood what was done, I wrote to him as follows.--
+
+[.embedded-content-document.letter]
+--
 
 Friend,--If I be an offender, why is justice delayed, and not speedily executed upon me?
 But if I be innocent, why dost thou deny me my liberty which of right is due?
@@ -1214,9 +1334,13 @@ which is the desire of my soul, who am
 Thy friend in truth, and therefore cannot flatter,
 but am obliged thus faithfully to warn thee.
 
+[.signed-section-signature]
 John Whitehead, Prisoner.
 
+[.signed-section-context-close]
 Lincoln Castle, the 14th day of the First Month, 1663.
+
+--
 
 +++[+++As John Whitehead was conspicuous in his religious service,
 and in his zeal for the cause of Truth,
@@ -1230,6 +1354,9 @@ that the Judge`'s will was to have it so, which one of the justices said was a l
 Six other Friends were now in prison with him, for non-payment of tithes.
 Two of them, viz. Vincent Frotheringham and Robert Whiteman,
 were kept in prison three years, and another, viz. Thomas Richardson, more than a year.]
+
+[.small-break]
+'''
 
 Besides what is above spoken of, +++[+++John Whitehead continues,]
 there have been many more in prison for the Truth`'s sake, in this county.
@@ -1290,6 +1417,10 @@ where they were detained until the 15th day of the Eleventh Month.
 On that day they appeared at the General Sessions held at Spital,
 and delivered this following paper to the justices, subscribed with their hands:--
 
+[.embedded-content-document.paper]
+--
+
+[.salutation]
 Friends,
 
 We are a people that do fear the Lord, and follow after truth and righteousness;
@@ -1338,7 +1469,10 @@ for we cry unto him when we are oppressed, and he doth certainly hear us,
 and will right our wrongs, when he hath suffered you fully to try our faith and patience.
 So into his will we are given up, and remain,
 
+[.signed-section-closing]
 Lovers of your souls, and desire your eternal good.
+
+--
 
 Notwithstanding this paper, and although no one appeared to prosecute them,
 yet were they examined by interrogatories, concerning their meetings;
@@ -1398,8 +1532,11 @@ without trial or hearing, I was kept prisoner till the General Sessions, held at
 the 28th of the Second Month, 1663, where there sat Robert Christopher, William Woolly,
 Isaac Knight, and William Fitzwilliams, to whom this following letter was delivered:--
 
-For the King`'s Justices, at the General Sessions in Louth,
-to read and consider with a meek spirit.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== For the King`'s Justices, at the General Sessions in Louth, to read and consider with a meek spirit.
 
 When will you hearken to the cry of the oppressed, and execute justice for the stranger?
 Surely you cannot be so ignorant of the law,
@@ -1443,9 +1580,13 @@ as I was the first day you caused me to be shut up in prison;
 being assured that my reward is with the Lord,
 who will also recompense you according to your doings.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Lincoln Castle, the 25th of the Second Month, 1663.
+
+--
 
 After the reading of this letter, one Captain Foster, who is a tender man,
 and hath some authority under the Earl of Lindsey, did also speak somewhat on my behalf;
