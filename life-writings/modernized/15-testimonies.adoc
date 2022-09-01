@@ -84,7 +84,7 @@ Gun-house, the 16th day of the Tenth Month, 1696.
 
 === Stephen Willoby`'s Testimony Concerning John Whitehead
 
-[.embedded-content-document.testimonny]
+[.embedded-content-document.testimony]
 --
 
 When it pleased God in his great love and mercy to visit this nation,
