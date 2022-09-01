@@ -1,6 +1,10 @@
 == Testimonies Concerning John Whitehead
 
+[.centered]
 === From T. Thompson`'s Testimony
+
+[.embedded-content-document.testimony]
+--
 
 John Whitehead, in his latter years, was not able to travel much,
 yet he went forth many journeys to visit Friends,
@@ -19,7 +23,13 @@ praises be unto the Lord.
 There I parted with him, and saw him no more;
 but the remembrance of him is precious to me.
 
+--
+
+[.centered]
 === David Crosby`'s Testimony Concerning John Whitehead
+
+[.embedded-content-document.testimony]
+--
 
 This testimony I have in my heart to bear, for our dear,
 ancient and worthy friend J. Whitehead.
@@ -66,11 +76,19 @@ This dear servant of the Lord is now out of the reach of all his enemies,
 and is at rest and peace with the Lord,
 where all the faithful labourers in the Lord`'s word and service desire to be.
 
+[.signed-section-signature]
 David Crosby.
 
+[.signed-section-context-close]
 Gun-house, the 16th day of the Tenth Month, 1696.
 
+--
+
+[.centered]
 === Stephen Willoby`'s Testimony Concerning John Whitehead
+
+[.embedded-content-document.testimony]
+--
 
 When it pleased God in his great love and mercy to visit this nation,
 after the dark night of apostasy, with the fresh breaking forth of his everlasting Truth,
@@ -150,11 +168,19 @@ or show to generations to come,
 of the great love and care that constrained Friends
 to go through many hardships in the beginning.
 
+[.signed-section-signature]
 Stephen Willoby.
 
+[.signed-section-context-close]
 Tydd, the 24th day of the Third Month, 1697.
 
+--
+
+[.centered]
 === George Whitehead`'s Account of John Whitehead
+
+[.embedded-content-document.testimony]
+--
 
 From a certain knowledge and lively remembrance of the living testimony
 he did early and publicly bear for the blessed Truth,
@@ -186,10 +212,18 @@ And as he kept the faith,
 I do not question but he attained the end that will
 crown all the faithful in Christ Jesus.
 
+[.signed-section-context-close]
 London, the 15th of the Fifth Month, 1703.
 
+--
+
+[.centered]
 === The Testimony of Friends, at Thealby, in Lincolnshire, Concerning John Whitehead
 
+[.embedded-content-document.testimony]
+--
+
+[.salutation]
 Dear Friends,
 
 It is in our hearts, and rests with weight upon our spirits,
@@ -268,16 +302,21 @@ Given forth and subscribed by several of us, in behalf of ourselves and others c
 at our Monthly Meeting, held at Thealby, in the north parts of the county of Lincoln,
 the fourteenth day of the Third Month, 1697.
 
+[.signed-section-signature]
 Henry Symson, Robert Wilkinson, William Smith, Francis Dent, Anthony Westoby,
 Michael Atkinson, John Nainby, Joseph Wresle, Peter Nayler, Richard Wresle, John Wresle,
 James Coakes, Thomas Wresle, Robert Colier, Joseph Richardson, Edward Gilliat,
 George Frow, William Williamson.
+
+--
 
 +++[+++In bringing this volume to a close, it may be briefly remarked,
 that the serious perusal of it is well calculated to prepare the reader feelingly to
 respond to the paragraph appended by T. Thompson to his account of his honoured friend;
 which is as follows:--
 
+[quote]
+____
 O! that the consideration of the dealings of the
 Lord may move all that make mention of his name,
 to walk faithfully in the Truth; that seeing many of the ancients,
@@ -292,3 +331,4 @@ cruel mockings and scornings, so we also who yet remain, may walk as good exampl
 in all faithfulness, patience, meekness and temperance;
 that the Lord alone may be honoured, who is, over all, worthy of praise, honour, glory,
 and renown, both now, forever and forevermore.]
+____
