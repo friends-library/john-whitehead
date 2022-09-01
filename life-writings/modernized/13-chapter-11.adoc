@@ -1,16 +1,24 @@
 == Chapter XI.
 
-A General Epistle to Friends--Address to Judge Gregory--Second trial at
-the Lincoln Court Sessions--Again remanded to prison--Apology to the Judges,
-Justices, etc.
+[.chapter-synopsis]
+* A General Epistle to Friends
+* Address to Judge Gregory
+* Second trial at the Lincoln Court Sessions
+* Again remanded to prison
+* Apology to the Judges, Justices, etc.
 
 +++[+++A few months after this unjust sentence was passed,
 John Whitehead became concerned to impart from his prison-house, encouragement,
 caution and counsel to his fellow-professors;
 and accordingly addressed to them the following weighty Epistle.]
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 A General Epistle to Friends
 
+[.salutation]
 Dearly Beloved Friends, Brethren, and Sisters,
 
 I being a prisoner for the Word of God and the testimony of Christ Jesus,
@@ -309,9 +317,13 @@ which will all fail and come to an end; but the true faith, which stands in God`
 shall have the victory, and those that possess it shall overcome the world: even so,
 Amen.
 
+[.signed-section-context-close]
 From Lincoln Castle, this 21st of the Tenth Month, 1682.
 
+[.signed-section-signature]
 John Whitehead.
+
+--
 
 +++[+++At the time of the next court sessions at Lincoln,
 which began on the 5th of the First Month, 1683, some of John Whitehead`'s friends,
@@ -320,6 +332,10 @@ informed him that he would "`be called to answer;`" he therefore
 addressed a short statement of his case to Baron Gregory,
 who sat as judge on the crown side, as follows:]
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the Judge of Life and Death.
 
 This true state of my case, shows,--That I was taken and imprisoned,
@@ -353,14 +369,18 @@ So, in doing to me as you would be done unto if you were in my condition,
 you will have peace, and I shall ever desire your health and prosperity,
 who am a prisoner in the castle of Lincoln.
 
+[.signed-section-signature]
 John Whitehead.
+
+--
 
 Upon the 7th day of the First Month I was brought to the bar,
 and the clerk of the court session said there was an indictment
 against me for refusing the oath of allegiance;
 and asked, whether I would traverse or submit?
 
-John Whitehead.--I have been imprisoned ever since the last court session,
+[.discourse-part]
+_John Whitehead._--I have been imprisoned ever since the last court session,
 as a person convicted of premunire, and have not seen the indictment, nor pleaded to it,
 and therefore desire that I may have a copy of the indictment,
 and time to advise with counsel before I plead.
@@ -370,11 +390,14 @@ of being a Jesuit and seducer of the king`'s subjects,
 which no man was able to prove,
 and therefore I expected to have been quit according to law.
 
-Judge Gregory.--Do you deny that you are a Jesuit?
+[.discourse-part]
+_Judge Gregory._--Do you deny that you are a Jesuit?
 
-John Whitehead.--I do deny that I am a Jesuit, and ever did so.
+[.discourse-part]
+_John Whitehead._--I do deny that I am a Jesuit, and ever did so.
 
-Judge.--But are you not in orders as a Romish priest?
+[.discourse-part]
+_Judge._--But are you not in orders as a Romish priest?
 
 John Whitehead.--I am not,
 but am able to manifest the contrary by good and authentic certificates,
@@ -382,20 +405,26 @@ from my neighbours, which I produced in court at the last court session,
 which showed my manner of life and reputation among my neighbours for thirty years;
 which I have here in readiness if the Court please to view them again.
 
-Judge.--That is no matter now: but are you not a preacher, and speak in meetings?
+[.discourse-part]
+_Judge._--That is no matter now: but are you not a preacher, and speak in meetings?
 
-John Whitehead.--Where are my accusers?
+[.discourse-part]
+_John Whitehead._--Where are my accusers?
 If any have anything to charge me with, I shall answer.
 
-Judge.--Will you plead to the indictment?
+[.discourse-part]
+_Judge._--Will you plead to the indictment?
 
-John Whitehead.--I desire a copy of it,
+[.discourse-part]
+_John Whitehead._--I desire a copy of it,
 and time to consider of it till next court session.
 
-Judge.--Will you take the oath?
+[.discourse-part]
+_Judge._--Will you take the oath?
 If you will take it, you may be discharged.
 
-John Whitehead.--The law requires due process, from first to last, which I have not had,
+[.discourse-part]
+_John Whitehead._--The law requires due process, from first to last, which I have not had,
 being never discharged from my first court order, by which I was committed:
 and when I last appeared in court,
 and expected to have a trial of the matters therein suggested,
@@ -405,6 +434,9 @@ knowing no reason they had to call my allegiance in question:
 I having faithfully performed it, and do still intend to perform it,
 as becomes a good christian and protestant subject.
 
+[.small-break]
+'''
+
 It was observed by some, that Doctor Fuller the chancellor,
 and justice Harrington whispered with the judge,
 and instigated him against me with great earnestness;
@@ -412,10 +444,12 @@ which occasioned this reflection from me afterwards--"`If you be men, act like m
 and if you have anything to say against me, speak openly, that I may know what it is,
 and answer to it.`"
 
-Judge.--You being suspected as a Jesuit or Papist, and preaching up and down,
+[.discourse-part]
+_Judge._--You being suspected as a Jesuit or Papist, and preaching up and down,
 the law provides that oath as an expedient whereby you may purge and clear yourself.
 
-John Whitehead.--I have offered other expedients to clear myself,
+[.discourse-part]
+_John Whitehead._--I have offered other expedients to clear myself,
 both by certificates and offering to subscribe the substance of the oath;
 for I scruple not at the allegiance.
 If I could take any oath at all, I should not refuse that oath;
@@ -424,16 +458,20 @@ I think it very hard measure that I should be imprisoned
 for one thing and then put to answer for another,
 being not discharged of that for which I was first committed.
 
-Judge.--You were discharged from that court order and then required to take the oath;
+[.discourse-part]
+_Judge._--You were discharged from that court order and then required to take the oath;
 and if you will yet take it you may be discharged.
 
-John Whitehead.--I was never discharged but conditionally,--if I would take the oath;
+[.discourse-part]
+_John Whitehead._--I was never discharged but conditionally,--if I would take the oath;
 which to me is a case of conscience, because Christ Jesus says, "`Swear not at all.`"
 Let me not perpetually be brought into the court to have the oath tendered as a snare,
 that I may be made a transgressor; but let me have a fair trial for what I have done.
 
-Court.--Take him away; we will consider of it till the afternoon.
+[.discourse-part]
+_Court._--Take him away; we will consider of it till the afternoon.
 
+[.offset]
 Adjourn the court.
 
 After dinner I was again brought into the court.
@@ -448,16 +486,21 @@ with the oath of allegiance.
 Notwithstanding, I again moved the court, that I might have a copy of my indictment,
 and time to advise with counsel, before I was put to answer.
 
-Judge.--You have heard the indictment, and I cannot grant a copy till you plead to it.
+[.discourse-part]
+_Judge._--You have heard the indictment, and I cannot grant a copy till you plead to it.
 
-Clerk.--Are you guilty of the indictment or not?
+[.discourse-part]
+_Clerk._--Are you guilty of the indictment or not?
 
-John Whitehead.--Not guilty.
+[.discourse-part]
+_John Whitehead._--Not guilty.
 
-Judge.--That is a traverse in law, let it be tried.
+[.discourse-part]
+_Judge._--That is a traverse in law, let it be tried.
 So the traverse was entered, and a jury ready to try it.
 
-John Whitehead.--I desire I may not be so hastily run upon to a trial,
+[.discourse-part]
+_John Whitehead._--I desire I may not be so hastily run upon to a trial,
 before I have a copy of the indictment, and time to advise with counsel,
 my case being very singular; for at the last court session,
 I was returned as a person already convicted of premunire,
@@ -465,7 +508,8 @@ and therefore not prepared for a trial now;
 and therefore desire a copy of the indictment, and time till next court session,
 that I may have counsel in the case.
 
-Judge.--I see you seek to gain time, and flourish before the country,
+[.discourse-part]
+_Judge._--I see you seek to gain time, and flourish before the country,
 and reflect upon the court; and you wrote a letter after the judge, last court session,
 wherein was railing language.^
 footnote:[That letter follows their proceedings last court session,
@@ -476,44 +520,63 @@ and in the mean time you may have a copy of the indictment; but it will signify 
 for I will tell you, that you must either prove that you did take the oath,
 or else take it, or you cannot be cleared.
 
-John Whitehead.--I intend not reflection on the court, but do think it very hard,
+[.discourse-part]
+_John Whitehead._--I intend not reflection on the court, but do think it very hard,
 that I must first be surprised with the tender of an oath,
 when I was to answer upon other things premised in my court order;
 and now surprised with a trial,
 after I have been so long imprisoned as a person convicted.
 
-Judge.--There was a mistake in that, but now we shall right it;
+[.discourse-part]
+_Judge._--There was a mistake in that, but now we shall right it;
 but there is nothing will advantage you, but either taking the oath,
 or proving you did take it.
 
-John Whitehead.--I hope it will not be put on me to prove the negative,
+[.discourse-part]
+_John Whitehead._--I hope it will not be put on me to prove the negative,
 till it be first proved, that the oath was legally tendered to me, and denied by me.
 
-Judge.--That will be proved, I warrant you; if you will traverse it now,
+[.discourse-part]
+_Judge._--That will be proved, I warrant you; if you will traverse it now,
 the jury is ready; or if you desire time till the morning, you shall have it.
 
-John Whitehead.--If it may not be put off till next court session,
+[.discourse-part]
+_John Whitehead._--If it may not be put off till next court session,
 I do desire time till the morning.
 
-Judge.--Well you shall have it: adjourn the court,
+[.discourse-part]
+_Judge._--Well you shall have it: adjourn the court,
 and let him have a copy of the indictment--which was immediately delivered,
 and the court adjourned till six o`'clock next morning.
 
+[.small-break]
+'''
+
 The court being again set, I was called to the bar, and the jury called over.
 
-Judge.--Come, are you ready for trial?
+[.discourse-part]
+_Judge._--Come, are you ready for trial?
 
-John Whitehead.--I have no counsel, having been kept within the prison;
+[.discourse-part]
+_John Whitehead._--I have no counsel, having been kept within the prison;
 and they all so busy, none could come to me,
 and therefore again desire that my trial may be put off till next court session.
 
-Judge.--That cannot be: clerk, swear the jury;
+[.discourse-part]
+_Judge._--That cannot be: clerk, swear the jury;
 and if you will challenge any of them before they are sworn, you may.
 
-John Whitehead.--They are all strangers to me,
+[.discourse-part]
+_John Whitehead._--They are all strangers to me,
 and therefore I shall challenge none of them.
 
+[.small-break]
+'''
+
 After the jury were sworn, the indictment was read, a copy of which follows:--
+
+[.embedded-content-document.legal]
+--
 
 The jurors of our sovereign lord the king, upon their oaths, present,
 That at the open court session for the county of Lincoln aforesaid,
@@ -550,7 +613,13 @@ that now are his faithful subjects, in contempt of the said lord the king that n
 against his laws, against the form of the said statute,
 and against the peace of our said lord the king, his crown and dignity.
 
-Judge.--(To the clerk) Come, where are your witnesses.
+--
+
+[.discourse-part]
+_Judge._--(To the clerk) Come, where are your witnesses.
+
+[.small-break]
+'''
 
 Then two witnesses were sworn, and gave evidence,
 that they were at the last court session,
@@ -568,7 +637,8 @@ as the indictment affirms;
 and whether there ought not to be a first and second tender of the oath,
 and refusal upon both, before an indictment upon this statute, the third of king James?
 
-Judge.--In some cases we ought to be counsel with the prisoner;
+[.discourse-part]
+_Judge._--In some cases we ought to be counsel with the prisoner;
 but need not be so in this case.
 Yet I will tell you, that if it was tendered and refused any day of the court session,
 it may be said to be on the first day of the court session;
@@ -576,25 +646,29 @@ for every day that the court session holds here, is but one day in law.
 Yet there ought to be a first and second tender, and a refusal upon both;
 for it is the second refusal that incurs a premunire.
 
-John Whitehead.--Well then,
+[.discourse-part]
+_John Whitehead._--Well then,
 seeing the indictment does but charge me with once having the oath tendered unto me,
 which I did not positively refuse, but gave reasons why it should not have been tendered,
 and why I ought not to take it, I hope the indictment ought not to be found against me,
 seeing I had not a first tender of the oath out of court, and a second in court,
 according to the form of the statute upon which the indictment is grounded.
 
-Judge.--You shall now have it tendered a second time,
+[.discourse-part]
+_Judge._--You shall now have it tendered a second time,
 and if you will yet take the oath of allegiance,
 you may retrieve what is past and have your liberty?
 
-John Whitehead.--If my life were concerned, as it is but my liberty and small estate,
+[.discourse-part]
+_John Whitehead._--If my life were concerned, as it is but my liberty and small estate,
 I dare not break the command of Christ; but if I could take any oath whatsoever,
 I should not refuse that oath; for I own allegiance due to the king,
 and am willing to subscribe the substance of it; but to me it is a case of conscience,
 so that I cannot take any oath; for Christ Jesus has said,
 "`Swear not at all;`" therefore I desire, seek not to ensnare me with an oath.
 
-Judge.
+[.discourse-part]
+_Judge._
 You say well; for in charity I do think that you make conscience of an oath;
 and if you be so tender and scrupulous of taking an oath,
 I ought to take heed of breaking an oath;
@@ -610,11 +684,15 @@ but vain oaths in communication and ordinary discourse, and oaths by the creatur
 as by heaven, and earth, and Jerusalem, and a man`'s head;
 which were brought in by the corrupt gloss of the ancients.
 
+[.small-break]
+'''
+
 --Upon this subject he did enlarge,
 saying as much as a natural man can reach in that case, concluding,
 that an oath for confirmation was to be the end of all strife.
 
-John Whitehead.
+[.discourse-part]
+_John Whitehead._
 All this cannot satisfy my conscience, in which I do believe, that not Jesuits,
 but Christ Jesus has taught us this principle; for the whole scope of his words,
 recorded in the fifth of Matthew, when I read and consider them,
@@ -643,11 +721,13 @@ for after he has particularised the manners of swearing, he says,
 this in conscience I am bound to observe, and not follow the example of men in strife,
 who take oaths.
 
-Judge.
+[.discourse-part]
+_Judge._
 I shall not further dispute it with you, but shall tender you the oath;
 give him the book: What say you, will you take it?
 
-John Whitehead.
+[.discourse-part]
+_John Whitehead._
 I am upon the traverse of the indictment,
 and shall not answer to new matter till that be tried; and therefore, jury,
 consider,--the indictment is the matter before you, with which you were charged,
@@ -657,42 +737,60 @@ therefore if you find that the oath was not twice tendered, and twice refused,
 before I was indicted, and you sworn to try the issue, you ought to acquit me;
 for the indictment is the matter in question and not any new matter since you were sworn.
 
-Judge.
+[.discourse-part]
+_Judge._
 You that are of the jury,
 the indictment is laid but for once refusal of the oath of allegiance,
 and here are two witnesses who prove that it was tendered to him the last court session,
 and he has not proved that he did take it; and you see he still refuses it;
 so gentlemen go together and consider of it.
 
+[.small-break]
+'''
+
 The jury went forth, and in a short time returned to court.
 
 The clerk called over their names, and said, Are you agreed of your verdict?
 
-Jury.--Yes.
+[.discourse-part]
+_Jury._--Yes.
 
-Clerk.--Who shall say for you?
+[.discourse-part]
+_Clerk._--Who shall say for you?
 
-Jury.--Our foreman.
+[.discourse-part]
+_Jury._--Our foreman.
 
-Clerk.--Do you find for the king, or for the defendant?
+[.discourse-part]
+_Clerk._--Do you find for the king, or for the defendant?
 
-Jury.--For the king.
+[.discourse-part]
+_Jury._--For the king.
+
+[.small-break]
+'''
 
 Howbeit the judge forbore to pass sentence against me, and the court adjourned.
 
 And I am returned in the calendar, as I was before, to remain in jail,
 being convicted of a premunire for refusing the oath of allegiance.
 
-Observe, First,--that the indictment was but for once refusing of the oath of allegiance,
+[.numbered-group]
+====
+
+[.numbered]
+Observe, _First,_--that the indictment was but for once refusing of the oath of allegiance,
 which, according to the judge`'s own words, incurs not a premunire,
 though it was found against me.
 
-Secondly,--that the oath of allegiance was not read to me in court,
+[.numbered]
+_Secondly,_--that the oath of allegiance was not read to me in court,
 when I was upon my traverse this court session, therefore not legally tendered:
 and whether I had not law and reason to decline answering to new matter,
 till the indictment was tried?
 
-Thirdly,--upon the whole matter,--whether by certificates and otherwise,
+[.numbered]
+_Thirdly,_--upon the whole matter,--whether by certificates and otherwise,
 I have not fairly quit myself from that malicious slander cast upon me,
 That I was a Jesuit; seeing they never could prove anything of it,
 nor touch me for what I had already done;
@@ -706,15 +804,17 @@ who both carried it fairly to me, especially the latter of them,
 but rather through the instigation of some of the doctors belonging to Lincoln Cathedral,
 who have hated me without a cause.
 
+====
+
 +++[+++The following remonstrance to the Justices, etc., without date,
 was probably written soon after John Whitehead had
 been thus again unjustly remanded to prison.]
 
-To the King`'s Justices of the Court Session, Justices of the Peace, Grand Jurymen,
-Chief Constables, etc.
-An Apology Written by John Whitehead,
-a Sufferer for the Word of God and Testimony of Jesus Christ,
-and Presented to You in Behalf of that Peaceable, Suffering People, called Quakers.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== To the King`'s Justices of the Court Session, Justices of the Peace, Grand Jurymen, Chief Constables, etc. An Apology Written by John Whitehead, a Sufferer for the Word of God and Testimony of Jesus Christ, and Presented to You in Behalf of that Peaceable, Suffering People, called Quakers.
 
 You, being our countrymen who are in authority,
 among whom we had our citizenship many years,
@@ -781,18 +881,25 @@ by you who are mainly concerned in this matter;
 and therefore we entreat you seriously to consider the fatal
 consequences that these kinds of severities draw after them:--
 
-First,--in provoking the Lord to anger, who never was pleased with persecutors,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_--in provoking the Lord to anger, who never was pleased with persecutors,
 since Cain slew his brother Abel.
 
-Secondly,--because of the discouragements brought upon industrious farmers and tradesmen;
+[.numbered]
+_Secondly,_--because of the discouragements brought upon industrious farmers and tradesmen;
 who dare not lay out themselves; being in jeopardy every day,
 to have their liberty or estate seized for their religion.
 
-Thirdly,--this severe course also, in its own nature,
+[.numbered]
+_Thirdly,_--this severe course also, in its own nature,
 tends to put industrious people upon the extremity to transport themselves;
 whereby the nation is weakened, rents brought down, and trades decayed.
 
-Fourthly,--informers and other loose, idle persons,
+[.numbered]
+_Fourthly,_--informers and other loose, idle persons,
 who live by the ruin of their neighbours, are encouraged;
 of which we that are sufferers make bold to remind you,
 because you have had large experience of our peaceable conduct,
@@ -810,6 +917,8 @@ while we are void of offence towards men;
 and in allowing this you may fulfill the royal law of Christ, who says,
 "`Whatever you want that men should do to you, even so do to them.`"
 
+====
+
 So consider our case as if it were your own,
 and do your endeavour to ease us of those manifold oppressions
 which lie upon us for our obedience to God;
@@ -824,3 +933,5 @@ which are turned upon us and against our peaceable, Christian meetings,
 and for not swearing, in obedience to Christ, who said, "`Swear not at all.`"
 All which we lay before you, hoping that God will put it into the heart of the king,
 and dispose of you who are in authority, to ease and relieve us in due time.
+
+--

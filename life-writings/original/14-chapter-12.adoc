@@ -1,10 +1,13 @@
 == Chapter XII.
 
-John Whitehead and others fined at Fulbeck--The case of Mary Waterman--John
-Whitehead`'s Letter to her persecutor--Taken from Devonshire House Meeting,
-London,
-fined and imprisoned--An Epistle to Friends--Minutes
-and Testimonies concerning John Whitehead--Conclusion.
+[.chapter-synopsis]
+* John Whitehead and others fined at Fulbeck
+* The case of Mary Waterman
+* John Whitehead`'s Letter to her persecutor
+* Taken from Devonshire House Meeting, London, fined and imprisoned
+* An Epistle to Friends
+* Minutes and Testimonies concerning John Whitehead
+* Conclusion
 
 +++[+++Of how long duration this last imprisonment at Lincoln proved to be from its commencement,
 has not been clearly ascertained.
@@ -68,9 +71,11 @@ Near her departure, she told John Whitehead, she was glad she came thither to di
 After her decease, a short account of her hard usage and peaceful close was drawn up,
 to the following purport:--]
 
-A True Relation of the Sufferings and Death of Mary Waterman, of Skegness,
-in the County of Lincoln, Widow, Who Died in Prison at Lincoln,
-the 9th Day of the Second Month, called April, 1687, for Her Testimony Against Tithes.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== A True Relation of the Sufferings and Death of Mary Waterman, of Skegness, in the County of Lincoln, Widow, Who Died in Prison at Lincoln, the 9th Day of the Second Month, called April, 1687, for Her Testimony Against Tithes.
 
 After some vexatious proceedings had been taken in the county court, by Thomas Tomson,
 priest of Skegness, against the said Mary Waterman and Peter Waterman, her eldest son,
@@ -114,11 +119,17 @@ There she grew weaker and weaker, till she died on the 19th of the Second Month,
 In her sickness she often thanked God,
 that he had strengthened her to give up her life for her testimony against tithes.
 
+--
+
 +++[+++This severely suffering case of Mary Waterman,
 called forth John Whitehead`'s strong and tender sympathy;
 also the expression of sharp rebuke and solemn warning to her persecutor,
 as appears by the following letter addressed to him a few days after her decease:--]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend Thomas Tomson,
 
 I thought good hereby to let thee know, that Mary Waterman, that desolate widow,
@@ -141,14 +152,24 @@ Therefore be ashamed of thy wickedness and hardness of heart,
 and repent whilst the Lord gives thee time and space,
 that this thine iniquity may be blotted out, which is the desire of
 
+[.signed-section-closing]
 Thy soul`'s friend,
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Written the 26th of the Second Month, 1687.
+
+[.postscript]
+====
 
 P+++.+++ S. And let thy repentance be manifest by discharging her son Robert,
 who hath been wrongfully detained by thee, though not joint executor with his mother.
+
+====
+
+--
 
 +++[+++As far as appears from any record, John Whitehead`'s imprisonment in Newgate,
 as before related,
@@ -157,8 +178,13 @@ neither has any thing been found written by him later
 than the foregoing letter to the priest of Skegness,
 unless the following lively Epistle, without date, be an exception.]
 
-An Epistle Given Forth by John Whitehead
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== An Epistle Given Forth by John Whitehead
+
+[.salutation]
 Dearly Beloved Children, And Plants Of The Lord,
 
 My life and dear love is shed abroad amongst you, and doth salute you,
@@ -256,7 +282,10 @@ where I am present with you in spirit,
 
 Who am your dear brother in the unchangeable Truth,
 
+[.signed-section-signature]
 John Whitehead.
+
+--
 
 +++[+++We now approach to the period when this faithful labourer
 in the Lord`'s vineyard was called to his rest.
@@ -282,6 +311,9 @@ After his decease,
 his surviving friends recorded the following short
 notice of his valuable services in the church:--]
 
+[.embedded-content-document.testimony]
+--
+
 At a Quarterly Meeting, held at our Meetinghouse in Lincoln,
 the 30th day of the Seventh Month, 1696, It +++[+++hath]
 pleased the Lord, a day or two ago, to take from amongst us by death, his servant,
@@ -293,7 +325,9 @@ to turn many to the truth and right way of the Lord:
 and many that are yet alive can bear testimony hereunto,
 and can praise the Lord our God on his behalf: so he now rests from his labours,
 and his works follow him; blessed be the holy name of the Lord our righteousness forever.
-Amen.`"
+Amen.
+
+--
 
 +++[+++The Minutes of York Quarterly Meeting show,
 that the sum of £5 was three times presented by that meeting to John Whitehead--once
@@ -306,9 +340,15 @@ The following extract may be regarded as a posthumous acknowledgment
 of his "`Friends`' love,`" offered in the way of sympathy
 towards those who should follow him in Gospel service.]
 
+[.embedded-content-document]
+--
+
+[.signed-section-context-open]
 York Quarterly Meeting, 15th of Seventh Month, 1700.
 
 At this our Meeting, Thomas Aldam brought £15,
 being the gift of our friend John Whitehead to our Quarterly Meeting,
 and ordered by his last will to be disposed of as a refreshment to poor travelling
 Friends who labour in the word and doctrine of our Lord Jesus Christ.]
+
+--

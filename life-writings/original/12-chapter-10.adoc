@@ -1,18 +1,28 @@
 == Chapter X.
 
-John Whitehead imprisoned at Hull--and at Spalding--Epistle,
-"`A tender visitation of heavenly love`"--Procures George Fox`'s release from
-Scarborough Castle--Imprisoned at Stamford--Attends the Sessions at Spital,
-and writes a remonstrance to the justices--John Whitehead`'s third
-imprisonment in Lincoln Castle--Petition to the Judge at the Assizes--Copy
-of Mittimus and exculpatory Certificates--Trial at the Assizes--Remanded
-to prison under sentence of premunire--Letter to the Judge.
+[.chapter-synopsis]
+* John Whitehead imprisoned at Hull
+* And at Spalding
+* Epistle, "`A tender visitation of heavenly love`"
+* Procures George Fox`'s release from Scarborough Castle
+* Imprisoned at Stamford
+* Attends the Sessions at Spital, and writes a remonstrance to the justices
+* John Whitehead`'s third imprisonment in Lincoln Castle
+* Petition to the Judge at the Assizes
+* Copy of Mittimus and exculpatory Certificates
+* Trial at the Assizes
+* Remanded to prison under sentence of premunire
+* Letter to the Judge
 
 +++[+++After having been at liberty but little more than three months,
 John Whitehead was committed to prison at Hull, under the circumstances which,
 with much simplicity,
 he describes in the following letter found among the Records at York:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends,
 
 Last Seventh day I took my journey from Lincoln; and being wholly clear of that county,
@@ -78,22 +88,30 @@ This, with my endeared love unto thee, is all at present,
 but that my desire is to hear from thee as often as thou hast freedom,
 who am thy friend in truth,
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Writ in the common jail at Hull,
 where I am kept a close prisoner for truth and righteousness`' sake.
 The 13th day of the Fifth Month, 1663.
+
+--
 
 +++[+++We are not informed how long John Whitehead was kept in prison this time;
 probably not more than a few days--considering the
 reluctance of the magistrates to commit him,
 it is likely that he was discharged at the Sessions, about to be held when he wrote.
 
+[quote]
+____
+
 Upon the 6th of Ninth Month, 1664,
 John Whitehead was apprehended at a meeting of the Lord`'s people,
 and committed to Spalding prison, for waiting on God amongst his people,
 where he remained until the 5th of Tenth Month in
 the same year.`"--Ancient Minutes of Lincolnshire.
+____
 
 During this imprisonment, he wrote the following address to his fellow professors:--.
 
@@ -101,12 +119,13 @@ The impressive manner in which he commemorates the Divine compassion extended to
 "`in the day of their wearisome wanderings,`" and his affectionate exhortation to faithfulness,
 will, doubtless, commend it to the cordial acceptance of the serious reader.]
 
-A Tender Visitation of Heavenly Love.
-Streaming from the Fountain of endless life, unto the Tribulated Flock of Christ,
-Whom the World in Derision calls Quakers;
-Being an Epistle Given Forth by the One Spirit of Truth,
-Through a Servant of the Living God, who is called Among Men, John Whitehead.
+[.embedded-content-document.address]
+--
 
+[.blurb]
+=== A Tender Visitation of Heavenly Love. Streaming from the Fountain of endless life, unto the Tribulated Flock of Christ, Whom the World in Derision calls Quakers; Being an Epistle Given Forth by the One Spirit of Truth, Through a Servant of the Living God, who is called Among Men, John Whitehead.
+
+[.salutation]
 Dear Friends And Brethren,
 
 Called by God, and gathered in the name of the Lord Jesus Christ, who is the Word,
@@ -244,7 +263,10 @@ that ye may abide forever,
 is the earnest desire of your brother and companion in tribulation,
 who under his own hand hath sent you this salutation.
 
+[.signed-section-context-close]
 From Spalding prison this 19th day of the Ninth Month, 1664.
+
+--
 
 +++[+++In the year 1666, John Whitehead was in London,
 with several other Friends in the ministry, viz., Alexander Parker, George Whitehead,
@@ -271,9 +293,14 @@ John Whitehead took the order down to Scarborough
 and delivered it to the Governor of the castle,
 who, upon receipt of it, discharged George Fox forthwith.
 
+[.embedded-content-document.legal]
+--
+
 Upon the 6th of the Fourth Month, 1668,
 John Whitehead was taken out of a meeting at Stamford,
 committed to prison by the mayor for twenty-four hours, and then sent away by pass.
+
+--
 
 In the Sixth Month, 1670, eleven Friends who resided at Gainsborough and places adjacent,
 were summoned to appear at the Sessions at Spital,
@@ -287,6 +314,9 @@ and after having witnessed the proceedings of the court,
 he wrote a remonstrance to the magistrates on account of their unchristian conduct,
 which he concludes thus:--
 
+[.embedded-content-document]
+--
+
 Therefore as a stranger and pilgrim,
 that passed through the country and stepped in to hear your proceedings,
 in tender love I exhort you to proceed no further against God`'s people,
@@ -295,9 +325,13 @@ lest ye perish in the day of his wrath--which that ye may escape,
 shall be the earnest desire of your real friend (who loves to tell men the truth,
 though for that he be counted your enemy.)
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 --Ancient Records of Lincolnshire.
+
+--
 
 No record respecting John Whitehead, of sufficient interest for insertion,
 has been found between the last date and the year 1682,
@@ -337,6 +371,9 @@ the earnestness which John Whitehead manifested in his defence is well accounted
 Previous to his being brought into court,
 he submitted his case to the consideration of the judges, by way of petition,
 to the following effect:]
+
+[.embedded-content-document]
+--
 
 Upon the 21st of +++[+++the month called]
 May last past, I was by Michael York,
@@ -415,15 +452,24 @@ in godliness and honesty, I may be discharged, as to right and justice doth appe
 and I shall be obliged ever to pray for your welfare and prosperity,
 who am a friend to justice, and desire the peace of this kingdom.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Lincoln Castle, the 30th day of the Month, called July, 1682.
+
+--
 
 This was delivered to the judge by his marshal,
 with a copy of the mittimus by which I was committed, as here inserted.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To the Keeper of His Majesty`'s Jail at Lincoln
 
+[.signed-section-context-open]
 Linc.
 Holl.
 
@@ -450,7 +496,10 @@ and in the year of our Lord 1682.
 
 This is a true copy of his mittimus.
 
+[.signed-section-signature]
 Clifford Barnard, Under-Jailer.
+
+--
 
 The justice who committed me,
 being in the chamber with the judge when these were delivered,
@@ -467,7 +516,8 @@ that there was scarcely any considerable conventicle in England but had a Jesuit
 and therefore, to try how you stand affected to the Government,
 I will tender you the oath of allegiance.`"
 
-John Whitehead.--The court may take notice,
+[.discourse-part]
+_John Whitehead._--The court may take notice,
 that I have been kept close prisoner ten weeks,
 and I desire the cause thereof may be inquired into;
 and if I be found guilty of those things which are charged against me,
@@ -478,10 +528,12 @@ and that there may not be an occasion sought against me.
 For I am not a man of those dangerous principles,
 neither doth any Jesuit belong to our meetings.
 
-Judge.--Do not you go up and down preaching?
+[.discourse-part]
+_Judge._--Do not you go up and down preaching?
 And did not you preach in that meeting?
 
-John Whitehead.--I hope I was not brought hither to answer
+[.discourse-part]
+_John Whitehead._--I hope I was not brought hither to answer
 to questions whereby I may inform against myself.
 I desire my accusers may appear face to face, that I may know what they charge me with,
 that I may have a fair trial thereupon;
@@ -491,7 +543,11 @@ for on a journey occasioned by my imprisonment, she got a fall from a horse,
 and broke one of her legs, and is now deprived of my help and assistance.
 Therefore I desire a fair trial, and if I be found innocent, let me be discharged.
 
-Judge.--I am sorry for the mishap and hurt your wife hath had.
+[.discourse-part]
+_Judge._--I am sorry for the mishap and hurt your wife hath had.
+
+[.small-break]
+'''
 
 And the justice who was by, that committed me, being asked, what witness he had?
 pointed to Michael York, who was sworn, and gave this evidence in open court:
@@ -515,12 +571,16 @@ he is one that makes it his practice to seduce the King`'s subjects,
 and is a ringleader of the Quakers, and is one of the greatest and most eminent,
 at least that ever I heard of, in these parts.`"
 
-John Whitehead.--The evidence he has given is not from his own knowledge of me,
+[.discourse-part]
+_John Whitehead._--The evidence he has given is not from his own knowledge of me,
 or of the things that he hath affirmed, as the court may observe;
 and that he hath not assigned any cause for his suspicion that I am a Jesuit;
 and what he hath against me, as to seducing the King`'s subjects, was in general terms,
 which signify a design to slander; and that what he hath said,
 was not upon his own knowledge, but by report from others.
+
+[.small-break]
+'''
 
 It was desired and pressed,
 that he might answer this question--whether he ever
@@ -531,19 +591,23 @@ for I knew he could not affirm he had either seen
 or heard me speak in a meeting in all his life,
 unless he would willfully perjure himself.
 
-Judge.--You cannot deny but that you are a preacher, and travel up and down the country,
+[.discourse-part]
+_Judge._--You cannot deny but that you are a preacher, and travel up and down the country,
 else how came you thither?
 
-John Whitehead.--I had business: being concerned as a trustee for some charitable uses,
+[.discourse-part]
+_John Whitehead._--I had business: being concerned as a trustee for some charitable uses,
 I had occasion to speak with several persons about it; and I intended to go for London,
 there being a suit depending in Chancery, for a legacy of two hundred pounds,
 wherein I with others am concerned.
 
-Judge.--Forasmuch as you travel up and down, and are publicly known to be a preacher,
+[.discourse-part]
+_Judge._--Forasmuch as you travel up and down, and are publicly known to be a preacher,
 I have reason to suspect your allegiance, and therefore must tender you the oath;
 if you will take it, you shall have your liberty.
 
-John Whitehead.--I have given no occasion for my allegiance to be suspected,
+[.discourse-part]
+_John Whitehead._--I have given no occasion for my allegiance to be suspected,
 but have lived peaceably, and therein performed my allegiance,
 and do truly intend to perform it as long as I live,
 and therefore ought not to be run upon with an oath to ensnare me;
@@ -555,23 +619,39 @@ as those that have been, and are my neighbours, can testify;
 and such as have been conversant with me have given it under their hands:
 I desire their certificates may be read in court.
 
-Judge.--That will be to little purpose for you;
+[.discourse-part]
+_Judge._--That will be to little purpose for you;
 you must take the oath or you cannot be discharged.
 
-John Whitehead.--I desire thee to look upon the certificates,
+[.discourse-part]
+_John Whitehead._--I desire thee to look upon the certificates,
 they being attested to be from credible persons,
 by justices of the peace and other officers,
 and maybe will give the court satisfaction without an oath,
 that I am not such a person as I was accused to be;
 and therefore I desire they may be read.
 
+[.small-break]
+'''
+
 This was not granted: but being pressed thereunto,
 the judge and some of the justices looked on them one by one, read some part of them,
 and then returned them to me again.
 
+[.offset]
 The certificates offered to the court were,--
 
-I+++.+++ A Certificate from the Parish of Swine.
+[.embedded-content-document]
+--
+
+[.numbered-group]
+====
+
+[.numbered]
+I+++.+++ _A Certificate from the Parish of Swine._
+
+[.small-break]
+'''
 
 These are to certify all persons whom it may concern, that John Whitehead,
 of Stinks House, in the parish of Swine, in the middle bailiwick in Holderness,
@@ -582,6 +662,7 @@ and hath ever demeaned himself peaceably amongst us his neighbours;
 and was never suspected to be a Jesuit or Papist, nor any way popishly affected:
 all which we certify under our hands 1628.
 
+[.signed-section-signature]
 Jos.
 Micklethwait, Jos.
 Godall, Vicar, Rob.
@@ -595,7 +676,11 @@ Thomas Atkisson, John Presly, Rob.
 Buttey, Ed. Fennecke, Tho.
 Carrick, Const.
 
-II. A Certificate from some of the Inhabitants of the Constable of Oustwick and Hilston.
+[.numbered]
+II. _A Certificate from some of the Inhabitants of the Constable of Oustwick and Hilston._
+
+[.small-break]
+'''
 
 We, the inhabitants of the constable of Oustwick and Hilston, do certify and declare,
 that John Whitehead was an inhabiter, with his wife and family, amongst us,
@@ -606,6 +691,7 @@ and was neither suspected to be a Jesuit, nor popish recusant,
 nor any ways popishly affected.
 Witness our hands the 23rd of June, in the year of our Lord 1682.
 
+[.signed-section-signature]
 John Linwood, Mar.
 Blonnt, John Blonnt, Robert Thorpe, Will.
 Thew, Rob.
@@ -615,6 +701,7 @@ Stoe, inhabitants of Oustwick and Hilston, J. Snaith, Constable, F. Jackson, Con
 Tho.
 Raven and John Cannam, Overseers from the Poor for Oustwick and Hilston.
 
+[.signed-section-context-close]
 Hull, the 23rd of July, 1682.
 
 Memorandum, that the day and year abovesaid, Thomas Horneby, of Hilston, came before me,
@@ -623,24 +710,37 @@ that he saw all the men, whose names are above-written, by them subscribed,
 or set their marks, to this present certificate; and this I do attest for truth,
 witness my hand, and seal of my office of mayor, on the day abovesaid.
 
+[.signed-section-signature]
 Christopher Richardson.
 
+[.numbered]
 III+++.+++
-A Certificate similar to the foregoing, as to John Whitehead`'s character, from Kelk.
+_A Certificate similar to the foregoing, as to John Whitehead`'s character, from Kelk._
 
+[.numbered]
 IV+++.+++ Ditto from Scarborough.
 
+[.numbered]
 V+++.+++ Ditto from Whitby.
 
+[.numbered]
 VI+++.+++ Ditto from York.
+
+====
+
+--
 
 After these certificates were viewed by the Court they were returned to me.
 
-Judge.--They do not clear you from being a Quaker and a preacher;
+[.discourse-part]
+_Judge._--They do not clear you from being a Quaker and a preacher;
 therefore I cannot take them for satisfaction, but must tender you the oath:
 and if you refuse to take it then you incur the danger of premunire,
 and must be put out of the king`'s protection and lose all your goods and chattels forever;
 and live in prison all your days, unless the king be graciously pleased to pardon you.
+
+[.small-break]
+'''
 
 He then read this part of a clause of the statute made in the 3rd of King James, cap.
 4.: "`And if the said person or persons, or any other person whatsoever,
@@ -653,17 +753,20 @@ every person so refusing shall incur the danger and penalty of premunire,
 mentioned in the Statute of Premunire,
 made the 16th year of King Richard the Second,`" etc.
 
-John Whitehead.--That was not the matter I was imprisoned for to answer unto,
+[.discourse-part]
+_John Whitehead._--That was not the matter I was imprisoned for to answer unto,
 but to the thing charged against me in my mittimus.
 Refusing of the oath was no part of the charge in my mittimus:
 and it those things cannot be proved against me, I ought to be acquitted,
 and no new matter insisted upon until I be tried, and either acquitted or condemned.
 
-Judge.--You shall be acquitted from all that was charged against you;
+[.discourse-part]
+_Judge._--You shall be acquitted from all that was charged against you;
 and if you will take the oath of allegiance you shall be cleared,
 and set out of the gates.
 
-John Whitehead.--I understand not that a first tender of the oath should be in court,
+[.discourse-part]
+_John Whitehead._--I understand not that a first tender of the oath should be in court,
 for this reason:
 because it is against the form of the statute and order of law prescribed and limited,
 both in the 3rd of King James, cap. 4. even in relation to popish recusants,
@@ -685,15 +788,21 @@ as the law directs:
 and that clause "`any person whatsoever`" is left out in the 7th of King James,
 and therefore ought not to be so severely urged.
 
+[.small-break]
+'''
+
 Here Henry Burrel, the justice who committed me to prison,
 being upon the bench at the judge`'s right hand, said,
 "`Did not I tender you the oath when I committed you?`"
 
-John Whitehead.--I hope thou wilt not say thou didst.
+[.discourse-part]
+_John Whitehead._--I hope thou wilt not say thou didst.
 
-Justice.--But I am sure I did tender it to you.
+[.discourse-part]
+_Justice._--But I am sure I did tender it to you.
 
-John Whitehead.--That is not true--interrupted by some under clerks,
+[.discourse-part]
+_John Whitehead._--That is not true--interrupted by some under clerks,
 when I would have said,--as thou knowest in thy conscience;
 thou neither readest it to me, nor gavest me the book.
 And all that were present may be witnesses against thee;
@@ -701,14 +810,19 @@ and likewise the mittimus by which thou committedst me is a witness against thee
 under thy hand and seal;
 wherein is neither mentioned the tender of the oath nor yet my denial.
 
-Judge.--It was no matter whether it was tendered before or not;
+[.discourse-part]
+_Judge._--It was no matter whether it was tendered before or not;
 (and overruling the reasons before-mentioned,
 said) I can tender it to any person in court; and therefore I will tender it to you.
+
+[.small-break]
+'''
 
 So he bade the clerk read the oath, and it was read accordingly,
 and the judge pressed me to answer directly, whether I would take it or no.
 
-John Whitehead.--I do not dislike the allegiance due to the king, but have practised it,
+[.discourse-part]
+_John Whitehead._--I do not dislike the allegiance due to the king, but have practised it,
 and do ever intend to perform my allegiance as becomes a true Christian and good subject.
 But I do really scruple to swear in any case in obedience to Christ,
 yet am willing to give what satisfaction I can;
@@ -718,14 +832,22 @@ by which I acknowledge and declare what is required
 by the oath to be acknowledged and declared,
 only leaving out the words, "`I swear,`" and such words as are in the nature of an oath.
 
-Judge.--Read your paper.
+[.discourse-part]
+_Judge._--Read your paper.
+
+[.small-break]
+'''
 
 I then read to the court my Declaration of Allegiance, and offered to subscribe it.
 
-Judge.--I cannot accept of it, I have no warrant by law to do it:
+[.discourse-part]
+_Judge._--I cannot accept of it, I have no warrant by law to do it:
 and both I and you must be bound by the law; but I see you have a copy of the oath,
 consider of it till the morning,
 and then give your answer whether you will take it or not.
+
+[.small-break]
+'''
 
 I acknowledged that a civility to me, and so was dismissed for that time.
 Next morning I was not called into the court,
@@ -748,14 +870,17 @@ it seems the judge would not admit them,
 appearing determined beforehand what to do against me;--which,
 how contrary that is to law and right, let the wise in heart consider.
 
+[.offset]
 Then I said, I desire to be heard.
 
-Judge.--I will hear you if you will come to the point.
+[.discourse-part]
+_Judge._--I will hear you if you will come to the point.
 Here is an indictment drawn, and if you will not take the oath,
 the grand jury will find it against you,
 and then you incur the danger and penalty of premunire.
 
-John Whitehead.--I hope the court hath considered what I have offered before,
+[.discourse-part]
+_John Whitehead._--I hope the court hath considered what I have offered before,
 when I was in court the other day,
 for the clearing of my innocency from those aspersions
 that have been cast upon me when I was committed,
@@ -786,9 +911,11 @@ Let sober-minded unbiased men judge,
 whether by due course of law I ought not to have been cleared, as the common usage is,
 to clear others, when no man can have aught to say against them.
 
+[.offset]
 Here the judge began to accuse me.
 
-Judge.--You are a man that travels up and down preaching, and goes to London and about,
+[.discourse-part]
+_Judge._--You are a man that travels up and down preaching, and goes to London and about,
 to gain proselytes and mislead people;
 therefore the king had need to have some special security for your allegiance;
 and the law hath provided that security, and I can accept of no other.
@@ -797,10 +924,14 @@ otherwise the grand jury are there to take notice,
 and will indict you for refusing of the oath, and then you must lie in prison.
 Clerk, read the Oath of Allegiance.
 
+[.small-break]
+'''
+
 The which the clerk did then audibly read,
 and the marshal offered the book for me to swear upon, which was not offered before.
 
-John Whitehead.--He that is my judge ought not to be my accuser,
+[.discourse-part]
+_John Whitehead._--He that is my judge ought not to be my accuser,
 for I am a freeman of England, and have right to travel in any part of this nation,
 behaving myself peaceably.
 And our law saith, "`No freeman shall be taken nor imprisoned,
@@ -819,11 +950,13 @@ which I am now ready to do again;
 and if any of you can convince me that it is lawful for me to swear any oath,
 I will not refuse the oath of allegiance.
 
-Judge.--I tell you that an oath is for deciding of controversies, and ending of strife:
+[.discourse-part]
+_Judge._--I tell you that an oath is for deciding of controversies, and ending of strife:
 the law saith, you shall swear, and I must require it of you;
 give a positive answer whether you will take it or no.
 
-John Whitehead.--Though in the time of the law, men might swear,
+[.discourse-part]
+_John Whitehead._--Though in the time of the law, men might swear,
 and an oath for confirmation was to them an end of strife: yet now since the law,
 all oaths are forbidden, as appears by the words of Christ Jesus,
 whom we ought to hear in all things; for he prohibited not only profane, vain oaths,
@@ -838,7 +971,8 @@ and therefore he seconds it on this wise, "`Above all things, my brethren, swear
 neither by heaven, nor by earth, nor by any other oath;
 lest you fall into condemnation.`"
 
-Judge.--Do you think that you are wiser than all
+[.discourse-part]
+_Judge._--Do you think that you are wiser than all
 that have been before you since that time,
 that you undertake to stand against that which hath been
 the practice of all nations for these sixteen hundred years,
@@ -847,29 +981,34 @@ For my part I should be loth to condemn that which hath
 been the practice of the christian world so many years;
 for without an oath justice will be obscured, and cannot proceed.
 
-John Whitehead.--An oath doth not always oblige men to speak truth;
+[.discourse-part]
+_John Whitehead._--An oath doth not always oblige men to speak truth;
 and justice may proceed if truth appear, with or without oaths.
 Nor are we alone in our refusing to swear; for many ancient Christians,
 and some Protestant martyrs, as William Thorpe, the Waldenses, Albigenses, and others,
 were of the same mind with us, if history may be credited.
 In the first ages of the church it was enough to say, I am a Christian.
 
-Judge.--I will not stand to dispute it farther with you.
+[.discourse-part]
+_Judge._--I will not stand to dispute it farther with you.
 If you will not take the oath which hath been tendered to you,
 the grand jury shall go forth,
 and then they will subscribe the bill of indictment that is drawn against you,
 and you must lie in prison.
 
-John Whitehead.--I desire to know whether it be a first
+[.discourse-part]
+_John Whitehead._--I desire to know whether it be a first
 or a second tender of the oath that I am to answer to,
 that things may be cleared as we go;
 that the grand jury may understand in what condition I stand,
 and I may not be ensnared to give an answer before that be cleared.
 
-Judge.--I tendered it before unto you in court on Monday you know,
+[.discourse-part]
+_Judge._--I tendered it before unto you in court on Monday you know,
 and it is now tendered to you again.
 
-John Whitehead.--I know it was read in court then,
+[.discourse-part]
+_John Whitehead._--I know it was read in court then,
 and I had time given till my appearing again to give my answer,
 whether I would take it or no.
 And I hope the court will take notice I have offered
@@ -900,21 +1039,28 @@ which was not made against us;
 because the penalty in this is more suited to the quality of the offence, so called;
 as all punishments ought to be according to the nature and practice of the offence.
 
-Judge.--The indictment is drawn for refusing the oath of allegiance,
+[.discourse-part]
+_Judge._--The indictment is drawn for refusing the oath of allegiance,
 and shall not be altered;
 for I will proceed upon that statute which hath been read to you,
 wherein the oath is contained.
 
-John Whitehead.--I understand not why an indictment
+[.discourse-part]
+_John Whitehead._--I understand not why an indictment
 should be drawn for refusing the oath,
 when I had not time given me till now, to answer, whether I would take it or no.
 
-Judge.--Do not trifle with the court: but if you will take it, take it;
+[.discourse-part]
+_Judge._--Do not trifle with the court: but if you will take it, take it;
 otherwise the jury must go forth and file the bill against you.
 
-John Whitehead.--The will of God be done.
+[.discourse-part]
+_John Whitehead._--The will of God be done.
 I have served Christ Jesus my Lord and Master these thirty years,
 and I see no cause why I should depart from his precepts.
+
+[.small-break]
+'''
 
 The grand jury withdrew;
 and in about half an hour`'s time returned and delivered a bill against me.
@@ -931,13 +1077,18 @@ according to the best notice which was taken of the
 proceedings of the court in this case,
 the reader may observe,
 
-First,--That I was taken and imprisoned upon a groundless
+[.numbered-group]
+====
+
+[.numbered]
+_First,_--That I was taken and imprisoned upon a groundless
 suspicion and suggestion that I was a Jesuit;
 and that, seeing no man could of his own knowledge say any thing against me,
 according to due process of law I ought to have been cleared by proclamation,
 as is usual in all criminal cases.
 
-Secondly,--That the judge seemed determined against me beforehand,
+[.numbered]
+_Secondly,_--That the judge seemed determined against me beforehand,
 and resolved to tender me the oath of allegiance;
 for so his marshal informed me before I was called into court;
 and from that determination the judge would not be driven by either law, reason,
@@ -945,13 +1096,15 @@ or the testimony of my neighbours,--men of good estates and credit;
 but would either force me to violate my conscience,
 or ruin me and my distressed wife and family.
 
-Thirdly,--Whether I be not more to be credited upon my promise of allegiance,
+[.numbered]
+_Thirdly,_--Whether I be not more to be credited upon my promise of allegiance,
 which I offered to subscribe, according to my principles and conscience,
 than if contrary to both, I had sworn thereunto?
 and whether the judge would have made an oath the condition of my liberty,
 but that he was persuaded it was a snare that would hold me in prison?
 
-Fourthly,--Whether I be legally imprisoned;
+[.numbered]
+_Fourthly,_--Whether I be legally imprisoned;
 seeing there was no manifest and positive denial to take the oath of allegiance;
 though many reasons why it should not be required of me,
 and why I could not swear at all in any case;
@@ -962,7 +1115,8 @@ and that fine not paid in a week`'s time--then the
 law directs that the party so refusing or maintaining,
 shall be imprisoned, not exceeding three months?
 
-Fifthly,--Whether it did not show a great deal of cruelty
+[.numbered]
+_Fifthly,_--Whether it did not show a great deal of cruelty
 and severity in the judge to decline this statute,
 made on purpose against the people called Quakers,
 and proceed by a statute made against Papists,
@@ -973,7 +1127,8 @@ who refuse to take an oath in obedience to Christ`'s command,
 and those who refuse the oath of allegiance from a dislike of the government,
 that they may favour and set up a foreign power?
 
-Sixthly,--Let it be considered,
+[.numbered]
+_Sixthly,_--Let it be considered,
 whether these severities against persons who are real Protestants,
 be not a wide door opened to let in popery?
 and whether, whilst ignorant people are told from the seat of justice,
@@ -990,7 +1145,8 @@ safely they may work amongst you,
 and wrest your power from you, whilst you are looking for them where they have no place,
 and daily disobliging your friends.
 
-Seventhly,--Let it be observed and advised upon,
+[.numbered]
+_Seventhly,_--Let it be observed and advised upon,
 whether a man can be legally returned in the calendar by the judge,
 convicted of a premunire (though indicted or presented by the grand
 jury) when the prisoner hath never heard his indictment read,
@@ -1005,8 +1161,13 @@ He hath promise from God Almighty--"`Because thou hast kept the word of my patie
 I will keep thee, from the hour of temptation, which will come upon all the world,
 to try them that dwell upon the earth.`"--Rev. 3:10.
 
-Here Follows the Copy of a Letter, Sent to the Judge After He had Returned the Calendar,
-which was Delivered into His Own Hand.
+====
+
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== Here Follows the Copy of a Letter, Sent to the Judge After He had Returned the Calendar, which was Delivered into His Own Hand.
 
 Consider in the fear of God,
 in whose hand is thy life and breath,--whether that which thou hast measured unto me,
@@ -1053,9 +1214,13 @@ and yet of right ought to be so; which if thou refusest to do, yet I shall rest 
 and commit my case to the just Judge of heaven and earth, who will reward thee,
 and all that had a hand in my imprisonment, according to their works.
 
+[.signed-section-signature]
 J+++.+++ Whitehead.
 
+[.signed-section-context-close]
 Lincoln Castle, the 3rd day of the Sixth Month, 1682.
+
+--
 
 +++[+++Thus without regard to law, justice, reason, or humanity,
 was this innocent man condemned to endure the grievous
