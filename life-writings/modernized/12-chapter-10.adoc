@@ -325,7 +325,8 @@ though for that he be counted your enemy.)
 [.signed-section-signature]
 John Whitehead.
 
---Ancient Records of Lincolnshire.
+[.signed-section-context-close]
+Ancient Records of Lincolnshire.
 
 --
 
@@ -488,6 +489,7 @@ Given under my hand and seal at Wikam, the 22nd day of May,
 in the thirty-fourth year of our sovereign lord, King Charles II.,
 and in the year of our Lord 1682.
 
+[.signed-section-closing]
 This is a true copy of his court order.
 
 [.signed-section-signature]
