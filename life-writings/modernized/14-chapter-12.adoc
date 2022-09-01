@@ -11,7 +11,7 @@
 
 +++[+++Of how long duration this last imprisonment at Lincoln proved to be from its commencement,
 has not been clearly ascertained.
-Gough, in his History of the People called Quakers,
+Gough, in his [.book-title]#History of the People called Quakers,#
 after stating that John Whitehead "`was convicted and premunired,
 and in consequence cast into prison,`" adds,
 "`where it is supposed he was detained until the general release in 1686.`"
@@ -45,7 +45,7 @@ without her knowledge.
 Two Friends were fined £5 each, "`for the pretended poverty of John Whitehead.`"
 
 It also appears that John Whitehead was at liberty towards the end of the year 1685; as,
-according to Besse`'s account of the Sufferings of Friends in London, he was,
+according to Besse`'s account of the [.book-title]#Sufferings of Friends in London,# he was,
 on the 11th of the Twelfth Month in that year, with nine other persons,
 taken from Devonshire House Meeting, and carried before the Lord Mayor,
 under whose cognizance some of them were bailed, and others sent to prison.
@@ -300,7 +300,7 @@ That John Whitehead was preserved alive and vigorous in the Truth,
 and fervent in concern for the welfare of the church to the end of his days,
 appears by the testimonials of some of his contemporary friends which follow:--
 
-The Records of the Monthly and Quarterly Meetings in Lincolnshire,
+_The Records of the Monthly and Quarterly Meetings in Lincolnshire,_
 of which John Whitehead was a member,
 bear copious evidence of his usefulness and zeal in promoting
 the faithful maintenance of our Christian discipline.
@@ -328,7 +328,7 @@ Amen.
 
 --
 
-+++[+++The Minutes of York Quarterly Meeting show,
+_+++[+++The Minutes of York Quarterly Meeting_ show,
 that the sum of £5 was three times presented by that meeting to John Whitehead--once
 to defray his expences in attending the Yearly Meeting in London,
 and twice "`as a token of Friends`' love.`"

@@ -301,7 +301,7 @@ That John Whitehead was preserved alive and vigorous in the Truth,
 and fervent in concern for the welfare of the church to the end of his days,
 appears by the testimonials of some of his contemporary friends which follow:--
 
-The Records of the Monthly and Quarterly Meetings in Lincolnshire,
+_The Records of the Monthly and Quarterly Meetings in Lincolnshire,_
 of which John Whitehead was a member,
 bear copious evidence of his usefulness and zeal in promoting
 the faithful maintenance of our Christian discipline.
@@ -329,7 +329,7 @@ Amen.
 
 --
 
-+++[+++The Minutes of York Quarterly Meeting show,
+_+++[+++The Minutes of York Quarterly Meeting_ show,
 that the sum of £5 was three times presented by that meeting to John Whitehead--once
 to defray his expences in attending the Yearly Meeting in London,
 and twice "`as a token of Friends`' love.`"
