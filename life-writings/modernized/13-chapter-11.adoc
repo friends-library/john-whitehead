@@ -399,7 +399,8 @@ _John Whitehead._--I do deny that I am a Jesuit, and ever did so.
 [.discourse-part]
 _Judge._--But are you not in orders as a Romish priest?
 
-John Whitehead.--I am not,
+[.discourse-part]
+_John Whitehead._--I am not,
 but am able to manifest the contrary by good and authentic certificates,
 from my neighbours, which I produced in court at the last court session,
 which showed my manner of life and reputation among my neighbours for thirty years;
