@@ -1,5 +1,6 @@
 == Testimonies Concerning John Whitehead
 
+[.centered]
 === From T. Thompson`'s Testimony
 
 [.embedded-content-document.testimony]
@@ -24,6 +25,7 @@ but the remembrance of him is precious to me.
 
 --
 
+[.centered]
 === David Crosby`'s Testimony Concerning John Whitehead
 
 [.embedded-content-document.testimony]
@@ -82,6 +84,7 @@ Gun-house, the 16th day of the Tenth Month, 1696.
 
 --
 
+[.centered]
 === Stephen Willoby`'s Testimony Concerning John Whitehead
 
 [.embedded-content-document.testimony]
@@ -173,6 +176,7 @@ Tydd, the 24th day of the Third Month, 1697.
 
 --
 
+[.centered]
 === George Whitehead`'s Account of John Whitehead
 
 [.embedded-content-document.testimony]
@@ -213,6 +217,7 @@ London, the 15th of the Fifth Month, 1703.
 
 --
 
+[.centered]
 === The Testimony of Friends, at Thealby, in Lincolnshire, Concerning John Whitehead
 
 [.embedded-content-document.testimony]
