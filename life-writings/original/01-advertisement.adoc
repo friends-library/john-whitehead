@@ -27,7 +27,7 @@ so as to form a regularly connected Memoir--some Letters and Minutes,
 copied from The Ancient Records of the Society of Friends in Lincolnshire and Yorkshire,
 are added--and the volume is divided into chapters.
 
-We are informed by William Penn (see the Preface) that "`John
+We are informed by William Penn (see the _Preface_) that "`John
 Whitehead was among the most eminent +++[+++of the early Friends]
 for his sound mind and capacity, great zeal and boldness, and as great humility,
 patience and labour, in word, doctrine, and charity.`"
@@ -48,8 +48,8 @@ It may be acknowledged with thankfulness that abundant evidence
 has already been afforded of the soundness of this persuasion;
 and we may trust that this evidence will not be permitted to fail,
 whilst these weighty records continue to be duly estimated: for,
-as the author of An Essay on the Christian Doctrine
-and Practices of the Early Friends has well observed,
+as the author of [.book-title]#An Essay on the Christian Doctrine
+and Practices of the Early Friends# has well observed,
 "`If the things which belong to our peace have due place in our affections,
 we shall meditate with pleasure on the experience of those
 who have trodden the path of virtue before us.

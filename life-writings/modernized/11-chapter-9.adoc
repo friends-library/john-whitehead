@@ -20,7 +20,7 @@ is as follows:]
 '''
 
 Upon the 8th of the Fifth Month, 1662,
-upon suspicion that I had met together with some sober people for the worship of God,
+_upon suspicion_ that I had met together with some sober people for the worship of God,
 I was apprehended by John Clarke, constable of Hannah-cum-Hagnaby,
 in the parts of Lindsey and county of Lincoln;
 and by virtue of a warrant subscribed by Martin Litster,
@@ -85,7 +85,7 @@ for the said county: and hereof you are not to fail,
 as you will answer the contrary at your perils.
 
 Given under our hands and seals, this ninth day of July,
-in the fourteenth year of his Majesty`'s reign, Anno Bom.
+in the fourteenth year of his Majesty`'s reign, _Anno Bom._
 1662.
 
 [.signed-section-signature]
@@ -298,7 +298,7 @@ you bow down your ear to hear, and give us also to understand the words of your 
 Why do you not as well show yourself unto the world, as to us;
 for they understand not your way,
 but because (though you have given your light into the world) they love darkness rather,
-and that blinds their eyes, that they know not you, nor us whom you have sent,
+and _that_ blinds their eyes, that they know not you, nor us whom you have sent,
 and therefore do persecute and seek to root up,
 not believing that we are your pleasant plants.
 

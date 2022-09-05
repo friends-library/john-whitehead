@@ -22,7 +22,7 @@ being sorely beaten and having their clothes torn.
 On the First-day following, musketeers were set to keep them out of their meetinghouse,
 who failed not to use great violence in executing their commission.
 
-The following short extract, from The Christian Progress of George Whitehead,
+The following short extract, from [.book-title]#The Christian Progress of George Whitehead,#
 under date of 1659, shows that John Whitehead was, in the course of that year,
 engaged in promoting the cause of Truth in Cambridgeshire, etc.:--]
 
@@ -738,7 +738,7 @@ whether they be good or evil.
 
 [.numbered]
 _Thirdly,_ touching their worship--therein they are not bound up to any form,
-esteeming only that worship pure, which is in Spirit and Truth;
+esteeming only _that_ worship pure, which is in Spirit and Truth;
 and above all things judging it their duty to wait
 in Spirit to be taught what God requires of them;
 and thereby he does move and require them to meet together in his name and fear,
