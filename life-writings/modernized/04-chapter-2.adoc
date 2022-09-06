@@ -1,387 +1,462 @@
-== Chapter I.
+== Chapter II.
 
 [.chapter-synopsis]
-* His early convictions and religious experience
-* When a soldier at Scarborough, powerfully awakened by the ministry of William Dewsbury
-* Engaged as a minister previous to quitting the army
-* An Epistle of caution and counsel
+* His sufferings for conscience-sake commence
+* His life in jeopardy at Lincoln
+* Imprisoned at Leicester
+* Abused at Worth Crowley
+* Preaches in the steeple-house at Wellingborough
+* Meets the priest at a lecture, and receives invectives and abuse
+* Apprehended as a vagrant, and committed to Northampton Jail
+* His remarks on these proceedings
+* Account of his fellow prisoners
+* At the Northampton Court Sessions remanded to prison
+* Account of his call to the work of the ministry.
 
-+++[+++Of the place or exact period of John Whitehead`'s birth, no account has been found;
-but it seems probable from some circumstances mentioned in this compilation,
-that he was born in Yorkshire about the year 1630.
-The certificates in Chapter x. show that he resided
-nearly thirty years from the year 1653,
-in Holderness, a district in the eastern part of that county;
-and we learn from the ancient records of the meetings for discipline in Lincolnshire,
-that his residence during the remainder of his life, from 1683 to 1696,
-was in the neighbourhood of Lincoln.
-His own account of his life commences as follows:]
++++[+++It appears that the series of sufferings for conscience-sake
+which John Whitehead had to endure,
+commenced about two years after he had embraced the Truth:
+the first entry on the [.book-title]#Record of the Sufferings of Friends in Lincolnshire,#
+describes the first trial of his faith by the ordeal of persecution, and stands thus:
+
+[quote]
+____
+
+In the beginning of the Ninth Month, in the year 1654,
+John Whitehead first came to preach the light within:
+and for bearing testimony in the high place, called the Minster, in Lincoln,
+that _it is the light of the glorious Gospel that
+shines in man`'s heart and discovers sin,_
+he was buffeted and most shamefully entreated;
+being often knocked down by the rude and barbarous people,
+who were encouraged thereunto by Humphrey Walcott,
+who was then in commission to have kept the peace,
+but broke it by striking the said John Whitehead with his own hand;
+which so encouraged the rude people, that so far as could be seen, they had slain him,
+but that God stirred the soldiers to take him by force from among them.
+____
+
+On the 24th of the Tenth Month, 1654, he was put into prison at Leicester, where,
+however, he remained only two or three days.
+No breach of any law was charged against him.
+Exhorting the people (which it seems was the occasion of this arbitrary
+proceeding,) was very displeasing to the priests of those times,
+and regarded as an offence which called for the infliction of pains and penalties.
+
+Soon afterwards, for admonishing the people in the graveyard at North Crowley,
+in Buckinghamshire, he was grossly abused by them, and received many kicks and blows.
+This brutal treatment he bore with Christian patience and meekness.
+
+In the latter part of this year, he went on religious service into Northamptonshire.
+When at Wellingborough, he sometimes entered the steeplehouse,^
+footnote:[Concerning the practice which was not infrequent among the early Friends,
+of entering places of public worship, under a sense of religious duty,
+and "`declaring to the priests and people,
+the burden of the word on their minds,`" our historian Gough says--
+{footnote-paragraph-split}
+"`This
+people were not single at that time,
+in their sentiments concerning the gospel liberty of prophesying; but the Independents,
+as well as the Baptists, adopted the opinion,
+that the ordained ministers or pastors had not, by any ordination of Christ,
+or the order observed among the primitive Christians,
+an exclusive right of speaking in the church,
+but that all properly gifted might speak '`one by one,`' It had been,
+during the time of the civil war, and still continued to be,
+no unusual practice for laymen, soldiers and others,
+to speak or preach in the public places of worship and elsewhere, with the connivance,
+if not with the approbation, of the ruling powers.`"--[.book-title]#Gough`'s
+History of Friends,# vol. i. p. 86.
+{footnote-paragraph-split}
+The fact that the preaching of Friends
+in the steeple-houses was sometimes allowed without interruption,
+and that the priest often answered their interrogations, and held disputations with them,
+will tend to show that it was not the thing itself,
+so much as the _character and effects_ of their preaching,
+which caused ecclesiastics to call on the arm of civil power to suppress the practice.
+They were earnest to prevent the promulgation of principles,
+which struck at the very _foundation_ on which their system was built,
+and which laid the axe of a free Gospel ministry to the root of a corrupt hierarchy;
+for it was often not until they had been foiled by argument,
+"`which they could neither gainsay nor resist,`"--not until
+they began to perceive that the simple and illiterate Quaker
+preachers were drawing away from them many of their auditors,
+and those, frequently,
+the most serious--not until they saw that "`their craft`" was in danger,
+that they complained to the civil power, and requested its restrictive interference.
+{footnote-paragraph-split}
+We must not forget the strong persuasion--the
+deep conviction which rested upon the minds of our early Friends,
+that the then prevailing religious system was _essentially
+opposed to the pure and spiritual religion of the Gospel._
+They were not less fully persuaded of this, nor, it may be added,
+on less substantial grounds,
+than John Huss or Martin Luther was of the antichristian character of the Romish church.
+They believed themselves called upon to testify "`in the name of the Lord,`"
+against a system which contained a woeful admixture of human invention,
+and that they were sent by Him, like the prophet of old,
+to declare against the Jeroboams of their day, who had dared to erect altars,
+which He had not commanded, and to set up a priesthood contrary to his appointment.
+For could that be a _Christian Church,_
+which persecuted them with a cruel injustice?--were
+_they_ possessed of the "`charity which thinks no evil,
+and which hopes all things,`" who when they failed to substantiate unfounded charges,
+shuffled to other grounds of accusation, and laid snares for men, who, they well knew,
+preferred to _suffer,_ rather than _act in opposition to the dictates of conscience?_
+The true church is to suffer tribulation in the world.
+That body of men, wherever and what ever it be,
+which is capable of persecuting for religion`'s sake,
+is apostate in spirit and practice from the Church of Christ--__it is not His!__
+The mock trials to which our early Friends were subjected,
+remain as so many standing monuments of their innocence,
+and of the wickedness of the high professors,--their enemies.]
+and after waiting quietly till the public service was ended, would ask the priest,
+Thomas Andrews, some questions.
+On one of these occasions,
+John Whitehead desired the priest to prove his doctrine and practice by scripture.
+With this request he refused to comply, but treated John with contempt, and went away.
+The people, how ever, generally stayed;
+and his powerful preaching and sound doctrine was well accepted by many of them.
+When Andrews was informed of the effect of this preaching upon his auditors,
+he challenged John Whitehead to a dispute.
+This took place; and the result of it mortified the priest still more,
+because he missed his aim, which was, to get some matter of complaint to the magistrates.
+A little time after,
+he sent a request to John to meet him at Thomas Pentlow`'s (a justice
+of the peace,) that he might hear and determine the dispute between them.
+But this snare was too obvious, and answer was returned,
+that he must appoint some other place.
+He then sent for John to meet him at a public lecture in the steeple-house,
+which he did accordingly.
+There being several other ministers and many people present,
+John Whitehead waited quietly till their service was ended.
+Then he proposed a question to the preachers, which they refused to answer;
+and the priest who had desired him to attend,
+instead of entering into any discussion of their respective religious sentiments,
+launched out into personal invectives and accusations against him.
+But he vindicated his character by plain truth, to the conviction of many of the people.
+
+The priests,
+thus finding their calumnies and human learning ill-matched against that "`learning
+in the school of the prophets and of the spiritual generation of men,`" and that "`plain,
+sound, and practical knowledge,`" with which John Whitehead was so eminently gifted,
+did not hesitate to resort to their "`last argument,`" the power of the magistrate.
+One Byfield, the priest of Torrington, having laid violent hands on John,
+dragged him by force out of the steeple-house--a
+warrant was procured to apprehend him as a vagrant,
+and on the 14th of the First Month, 1655,
+while "`exhorting the people at a peaceable meeting in a Friend`'s house`" at Wellingborough,
+he was apprehended and taken before a magistrate,
+who promised him his liberty if he would go towards home the following morning.
+Not being willing to accept liberty on such terms, he was retained in custody,
+although not accused of the breach of any law.
+
+Two days after, he was carried before two justices, and charged with vagrancy,
+and with having left his wife and calling.
+He told them he was following that calling unto which the Lord had called him;
+and that he could prove his habitation and manner
+of living by a Friend who was at the door,
+if he might be admitted to give his testimony without offence.
+This was Marmaduke Storr, of Kingborough, in Holderness, who,
+on his way into Staffordshire to renew the lease of his farm,
+had come into Northamptonshire to visit his brother,^
+footnote:[Joseph Storr, who,
+having gone to hear the issue of the examination of William Dewsbury,
+on a charge of blasphemy, was arrested,
+and being included in the same court order with W. D., was committed to Northampton Jail.
+No accusation had been laid against him.]
+who was there in prison, and to supply his needs.
+But when admitted,
+his testimony to the truth of John Whitehead`'s statement
+(that he had a wife and family whom he reputably maintained,
+and therefore was not a vagrant,) not only failed to procure his liberty,
+but brought himself into difficulty; for they forthwith took offence at him,
+and after strictly questioning him as to his name,
+and his purpose in visiting those parts,
+and receiving satisfactory answers to all their inquiries,
+they requested him to give his evidence respecting John Whitehead on oath.
+On his refusing so to do, in obedience to the command of Christ,
+"`swear not at all,`" they charged both of them with being "`papists, jesuits,
+and dispersers of dangerous principles;`" and perceiving it would be vain
+to attempt to support the charge of vagrancy against John Whitehead,
+after "`consulting together for a snare,`" they tendered them both the oath of abjuration,
+telling them that they regarded them as persons disaffected to the commonwealth.
+They replied, they could take no oath, for they regarded all oaths alike unlawful,
+since they were forbidden by Christ; they did, however, in the presence of the Lord,
+renounce and deny the things renounced and denied in the form of that oath,
+and all principles contrary to the Spirit of Truth, which gave forth the Scriptures:
+and they further asserted that they had shown their good affection towards the Commonwealth
+by assisting it with their persons and estates in the time of its greatest straits.
+Notwithstanding, both were committed to Northampton Jail,
+Marmaduke Storr being included in the same court order with John Whitehead.
+By this imprisonment M. Storr, who was a grazier,
+was prevented from getting the lease of his farm renewed,
+so that his family were constrained to remove and carry off his stock at a day`'s notice,
+to his very great detriment.
+
+At the next general Sessions, held on the 25th of the month following,
+on their refusal to find sureties for their good behaviour,
+they were again committed to the common jail,
+although they had not been charged with any crime, nor confronted with any accuser.
+At the general Sessions on the 13th of the Fourth Month following,
+they were again brought into court,
+when they were told that they affronted the court by standing with their hats on.
+They replied, that "`this was not a breach of the law of God or of the nation;
+and that they did not keep their hats on in contempt, but for conscience-sake.`"
+Then William Butler, who was one of the justices, and also an officer in the army,
+told them that "`they put confidence in the army,
+but the officers would be more severe with them than any had yet been.`"
+John Whitehead said it was not so, "`for their confidence was in God,
+who is the Rock of Ages.`"
+And after desiring, but in vain, to know what law they had transgressed,
+and to see their accusers, they were sentenced to hard work in the house of correction:
+and the jailer was charged to keep them straitly,
+not to permit them to be visited by anyone, nor to have any food brought them,
+neither to allow them pen, ink, and paper.^
+footnote:[This order, as relates to prohibiting pen, ink, and paper, it appears,
+was not strictly enforced, as John Whitehead, during his confinement, wrote a Treatise,
+entitled _The Enmity between the Two Seeds,_
+from which the foregoing account of his conversion,
+and much of what immediately follows it, are extracted.
+The contents of the next Chapter were also written during this imprisonment.]
+The injustice of the punishment was heightened by the omission of a specified time,
+during which it was to be inflicted.
+In alluding to these unjust proceedings, John Whitehead remarks:]
 
 [.small-break]
 '''
 
-In the days of my youth I lived without the fear of God;
-though he was a reprover of me from my childhood: yet I hearkened not to his reproof,
-but lived in pride and pleasure, sporting and playing, and in vain, idle communications,
-as all do who mind not the counsel of God.
-Yet, by the education received from my parents who feared God,
-I was restrained from grosser evils, as swearing, lying, cursing, and the like;
-into which many children are permitted to run,
-whose parents live without the fear of God.
-By my parents I was instructed in the strictest profession of religion,
-which then was called by the world, Puritanism.
-Yet I lived without any true sense of my fallen and
-lost state until I was about fifteen years of age,
-about which time I had a day of visitation; and God,
-who is rich in mercy and delights not in the death of a sinner,
-caused light to shine out of darkness, and discovered to me my condition,
-not by man nor by outward means, but by the Word, which is power and life,
-which then stirred in me; from which Word light did spring in me,
-and let me see the iniquity in which I lived,
-and that my heart was full of corruptions and filthiness,
-and lusted to all manner of evil and unrighteousness,
-though I was outwardly restrained from acting gross evils.
-Thus I became sensible of my wretchedness and separation from God; and desires,
-by the power of the living Word, were begotten in me towards God, which wrought me,
-in some measure, into his fear: and those things which were evil,
-in which I had formerly delighted, began to be embittered to me,
-and the fear of God caused me to depart from them,
-whereby my conduct became blameless as to the world.
-But I was ignorant of the true knowledge,
-where to wait upon God for redemption from the evil that lodged in my heart,
-and separated me from him.
+This we declare to you all, who do these things,
+and yet make profession of faith in Christ, that they who did in times past,
+or who do now believe in Christ Jesus,
+and are regenerate and born again through faith in him, are no persecutors;
+neither did they, nor do we who believe in Christ, persecute, falsely accuse,
+or imprison any that speak in the name of the Lord, and exhort people to repent.
+And we do again declare, in the presence of the Lord God of heaven and earth,
+and it shall be answered by the Light in all consciences, that you who imprison,
+falsely accuse, persecute,
+and scorn those who declare against sin in your streets and in your steeple-houses,
+are shut out from among all the saints and children of God,
+who believe in the Lord Jesus; and you are found in Cain`'s way, who slew his brother,
+and in Ishmael`'s nature, born after the flesh;
+which birth is the same that crucified Christ, stoned Stephen,
+and put to death the Lord`'s faithful ministers and witnesses in all ages;
+some of whom had no certain dwelling place,
+and others wandered about in sheep-skins and goat-skins,
+and were destitute and afflicted, and counted the offscouring of all things by the world,
+which was not worthy of them: they endured cruel mockings, and were beat and imprisoned,
+as we are, who suffer by the same seed of evil doers; and they were slain by the sword,
+and were tortured, not accepting deliverance;
+but chose to suffer what man could do unto them,
+rather than transgress the perfect law of their God,
+who had called them out of the world.
 
-I was instructed by my parents in the use of means, as hearing sermons,
-reading the Scriptures, and the like, to which I paid much attention,
-and so grew in knowledge beyond many of my equals: but as knowledge grew,
-a secret pride grew; my sin still remained in my heart,
-and the wrath of God abode upon me; under the sense of which I groaned,
-but found no way to escape it.
-For though I had an outward knowledge of God and Christ and the promises,
-yet my will and affections and lusts were not crucified.
-In this state I continued until I was about eighteen years of age,
-about which time I went into the army.
+And these are our cloud of witnesses; and their God is our God; and he will deliver us,
+and render unto every one of you, according to your doings;
+and with what measure you administer to us, it shall be measured to you again;
+and you shall not escape,
+but shall receive at the Lord`'s hand the cup of the wrath and fury of Almighty God,
+which he will fill unto you except you repent.
+Therefore speedily return to the Lord, and walk in the light of Christ Jesus,
+which reproves for sin, lest you perish in your gainsayings,
+and your hearts become hardened, so that no place of repentance be found.
+Therefore, now while you have time, prize it.
 
-I had often secret breathings and longings after God,
-but zealously followed men whom the world called godly ministers,
-who spoke much of faith in Christ, and of God`'s free grace, and of free justification;
-which things I apprehended in my understanding; and believed,
-as the world`'s professors do, that the grace of God was free,
-and that Christ died for my sins, and rose again for my justification;
-and that justification was free by his blood.
-Here I got some ease, and my outward conduct was blameless among men.
-But this faith was outward: and I stood not in the living faith and the living hope,
-which removes mountains, purifies the heart, and is an anchor to the soul;
-for the root of evil still remained, and my heart was unclean, and condemned me.
-
-So there were in me many doubts and questionings of my state;
-and I found no true rest to my soul, but was tossed from mountain to hill,
-while I sought it without, in outward observations, as hearing sermons,
-reading the Scriptures, and the like.
-In this unsettled condition I continued until I was about nineteen years of age;
-and then the Lord appeared in love to my soul, which lay in the pit crying unto him,
-and more enlightened my understanding, and by his Spirit convinced me of righteousness.
-He let me see that the kingdom of God is not in outward observations;
-but that it is within, and is righteousness, peace and joy;
-that all the children of the Lord are taught of the Lord, Christ;
-that he is the way to the Father,
-and that he is given of God to lead his people into the kingdom of God.
-
-And then, by the power of God, desires after righteousness were enlivened in me,
-and I was brought to wait, in the fear of God, on the Lord alone,
-from whom my soul found some refreshment; and his secrets were with me.
-And by his Spirit he showed me barrenness, dryness,
-hypocrisy and confusion in the most eminent teachers of the world,
-and in all the formal professors with whom I was then acquainted: and the Light of God,
-which discovered their emptiness, led me from following them.
-My understanding began to be more opened in the true knowledge of Jesus Christ;
-I saw that he alone had the words of eternal life,
-and I was weaned to him alone for teaching.
-I had many openings in the living Truth;
-and the eternal love of God in Christ Jesus was witnessed
-to my soul by the Holy Spirit of promise,
-in which I exceedingly rejoiced: when in this state I was about twenty years of age.
-But I being ignorant of the daily cross of Christ,
-in which to wait upon God for the possession of what I saw, and which was promised to me,
-the serpent beguiled me under fair pretences, and said unto me,
-that I was now made partaker of the love of God,--that there was
-perfect reconciliation to God brought forth in the blood of Jesus,--and
-that whom he loved once he loved unto the end.
-And when the pure Light which witnessed for God, called for purity and holiness,
-the serpent laid before me the failings of the saints, and said,
-the best of saints committed sin--that I could not be set free from it,
-while I was here on earth, for in the flesh dwells no good thing: but, said he,
-that is no matter, for all is reconciled in Christ,
-and none can pluck you out of his hand.
-And I, lending an ear to him in these plausible temptations,
-was drawn from the counsel of Christ into carelessness,
-and forgot the lovingkindness of God: and then my will got strength,
-and ran again into pleasures and carelessness.
-
-So I was carried captive into spiritual Egypt,
-where our Lord was crucified and the witnesses slain, Rev. 11:8:
-and then that nature which was of the world, rejoiced and made merry over the Witness.
-Yet a Seed did still remain, which secretly reproved me for my wicked thoughts,
-idle words and unsavoury actions (though the world could not reprove me):
-and then the "`Mother of Harlots`" with the wisdom of the serpent, made covers,
-and told me that that was but the spirit of bondage which reproved
-me--that it would lead me again into bondage--that the saints had
-liberty to take pleasure and delight in the world,
-and that they had the most right to its treasures--that though I did commit sin,
-yet God did not impute it to me; for he sees no sin in Jacob,
-nor transgression in Israel--that it was not outward works that
-could alter the purpose of God or separate me from him.
-But I had turned from that which he loved, and I was in the house of bondage;
-and "`the Mother of Harlots`" sat decked in me, and said, she should sit a queen forever,
-and see no sorrow.
-I gloried in my knowledge, and could talk of experiences through which I had passed:
-but "`the prince of the power of the air`" was head in me,
-and my soul was brought into bondage to corruption.
-
-In this state I lay nearly two years:
-and the Lord by his Seed,--his Word,--sometimes disquieted my earthly spirit, brought me,
-in some measure, into a sense of my condition,
-and let me see that I was separate from Christ,
-and had lost the Divine love and virtue which I had once enjoyed.
-Sometimes there was a secret longing in me to see from where I had turned;
-but the serpent told me, that I could not do, because of myself I could do nothing,
-and that the Lord`'s time was not yet come; for when he would have me otherwise,
-he would make me as he would have me to be,
-and I could not resist him in the day of his power.
-And thus he drew me from hearing the counsel of Christ,
-who called for self-denial and holiness,
-to live at ease in the flesh and to put the day of the Lord afar off;
-in which state I had perished in my gainsaying,
-but that the long-suffering and riches of God`'s love to me were inexpressible.
-
-And as I here lay in the house of bondage,
-the Lord in his love sent his faithful messenger, William Dewsbury,
-into the place where I resided.^
-footnote:[Scarborough--John Whitehead was at this time, in the army,
-and was probably about twenty-two years of age.
-{footnote-paragraph-split}
-William
-Dewsbury commenced his Gospel labours in the Eighth Month,
-1652, at which time, according to his own account (see [.book-title]#Life of W. D.#),
-he was engaged "`in obedience to the command of the Lord, to run to and fro,
-to declare to souls where their Teacher is--the Light in their consciences.`"
-His visit to Scarborough, as above alluded to,
-was most likely even prior to John Whitehead`'s meeting with him at Malton,
-in the Tenth Month of the same year, (see pp.
-9, 10,) so that John Whitehead must have been among the first who were convinced,
-or rather confirmed and established in the truth,
-through the instrumentality of that eminent minister.
-{footnote-paragraph-split}
-The
-reader will please to observe,
-that the dates in this volume are according to the Old Style
-so that every month is to be reckoned as two months later,
-to agree with our present mode of computing.
-Thus, the Eighth Month (as above) corresponds with the Tenth Month as now computed.]
-
-In him God had raised the Witness to declare his powerful Word:
-and when I heard it declared, and the cross of Christ preached,
-the Witness of God arose in my conscience and witnessed to the Truth:
-my understanding again was opened by the power of
-the same Spirit that first convinced me of sin;
-and I saw that I was in the prodigal state,
-above the cross of Christ--that I was the servant
-who had known his Master`'s will and not done it;
-and the judgment of God took hold of me.
-Yet a secret hope was raised in me that mercy would be shown me upon my return:
-and in this day of my visitation I sunk down into the power
-of the Spirit that convinced me of sin and of judgment,
-and resolved, in the power of it, to return unto Him against whom I had sinned.
-And no sooner did I return, but in his love He received me, and put his fear in my heart,
-which caused me again to depart from all manner of evil;
-and set up his righteous judgment in my heart, which took hold of the man of sin:
-and a day of trouble and great fear fell upon the earthly man.
-And as I here waited, the Word of the Lord came unto me and said,
-if I would be his disciple I must deny myself and take up his cross daily and follow him:
-and by the power of his Word my will was brought into the cross,
-and I was separated from my former companions and from conformities to the world,
-to wait upon God in the way of his judgments.
+And all dear brethren, and companions in the kingdom and patience of the Lord Jesus,
+who are his faithful witnesses, lift up your heads and rejoice in the Lord,
+who has counted you worthy to suffer for his name`'s sake;
+and stand immoveable in the Light, Life and Power of God.
+Be bold and of good courage; be of a sound mind,
+and be obedient to the Lord Jesus Christ; forget the things which are behind,
+and press forward, in the pure Light, through the strait gate,
+in the daily cross to that which is contrary to the Light.
+Tread down, and trample upon that which would shake your confidence;
+and be faithful unto the end,
+that you may receive a full reward with all the faithful
+ones who have suffered before you,
+from the Lord God of Sabaoth, who is a consuming fire to his enemies; but is, ever was,
+and abides forever, the refuge of all who trust in him.
+Glory and praises be given unto him forever and ever.
 
 [.small-break]
 '''
 
-+++[+++In contemplating the Christian experience of individual
-members of our Society at its origin,
-we cannot fail to be much struck with the great similarity of their
-spiritual exercises and the way by which they were convinced of
-the inefficacy of the mere profession of religious doctrines,
-however accordant they might be with a correct interpretation of Holy Writ.
-John Whitehead, as appears from the above deeply instructive account,
-was one among the many,
-who in that day experienced the light of divine Truth
-in a preeminent degree to arise in their hearts,
-showing them the hollowness of the high profession of the times,
-and inducing them to turn from dependence on man for spiritual instruction,
-and to believe in, and come to, Jesus Christ,
-not only as to the "`Lamb slain`" through whose blood
-they were to receive remission of sins,
-but also as the "`Head over all things to his Church,`"--the present Teacher,
-Governor and Guide of his people.
-John Whitehead, we have seen, was instructed in the strict profession of Puritanism,
-which had the effect of leading to an exterior propriety of conduct,
-without making known to him the deep depravity of the heart,
-and the consequent necessity of experiencing the regenerating power of Divine grace:
-we have also seen that in the gradual enlightening
-of his mind he became possessed of a correct knowledge,
-as far as the intellect was concerned, of some important evangelical doctrines;
-but his faith being outward, though he obtained some ease to his troubled spirit thereby,
-he was still tossed and tried,
-and sought rest in outward things,--in the use of means alone;
-not as yet fully understanding that the _means were given for an end,
-and were useless unless that end were attained._
-But that same Spirit which visited him at an early age and convinced him of sin,
-in the further unfolding of light and in the extension of heavenly love,
-at length convinced him also of righteousness,
-showed him the nature of the kingdom of God,
-and weaned him from the teaching of men to wait on the Lord alone.
++++[+++It may not be uninteresting, nor altogether irrelevant,
+to allude to those Friends who were fellow-prisoners
+with John Whitehead and Marmaduke Storr,
+at this time, in Northampton Jail,
+and to consider briefly the circumstances under which they were committed, namely,
+William Dewsbury, Joseph Storr, Francis Ellington, Henry Williamson, Edward Ferman,
+Thomas Cocket, John Hutchin, and Michael Patteson.
 
-Thus, although as yet not fully enlightened,
-nor practically acquainted with the necessity of
-a daily abiding under the cross of Christ,
-and therefore remaining weak and in bondage,
-and subject to the subtle temptations of the enemy,
-his mind was prepared by the Spirit of Truth,
-to unite at once with the evangelical and living testimony of William Dewsbury,
-and to become himself also, in a short time,
-a minister and witness of the same precious principles,--the same practical,
-inward and efficacious religion of the Gospel.
+William Dewsbury had been charged, in the street at Wellingborough, by Thomas Andrews,
+the priest of that place, with deceiving the people:
+and thinking it right that an accusation, thus publicly made,
+should be either proved or retracted, he went into the steeple-house,
+and after the conclusion of the service, requested the lecturer to prove his assertion,
+or acknowledge its falsehood.
+The priest, however, made no reply, but hastened away:
+and William Dewsbury was immediately haled out of the house into the yard,
+where he preached to the people,
+who heard him quietly until the high constable came and arrested him,
+threatening to "`bring evidence against him for blasphemy.`"
+He was taken before a justice of the peace; but as the charge could not be sustained,
+he was set at liberty.
+On the following day, while at the house of Francis Ellington,
+he was again arrested under a warrant for the apprehension
+of "`one who is commonly called a Quaker.`"
+It was in vain to reason against acting on a warrant so vaguely worded;
+and he was taken before Thomas Pentlow,
+who committed him to the common jail of Northampton.
 
-T+++.+++ Thompson, in his __Testimony Concerning John Whitehead,__^
-footnote:[In the work from which the present volume is compiled,
-this Testimony is signed, _Theo.
-Thomson,_ Skipsea;
-but there appears good reason to conclude that the writer`'s name should have stood Tho.
-Thompson.
-A careful examination of the Registers of York Quarterly Meeting, etc.,
-has failed to discover the name as it stands in the
-Edition of 1704.--Thomas Thompson lived at Skipsea,
-was a minister of note, and died in 1704, aged 73 years.
-In a Memoir of his life, written by himself,
-after giving an account of his convincement in 1652, he says,
-"`In those days I often accompanied William Dewsbury, John Whitehead,
-and sometimes James Nayler, and other early ministers,
-to and fro in the East Hiding of Yorkshire.`"--These circumstances seem
-to justify the conclusion that this Friend was the writer of the testimony.]
-relates, that on the 27th of the Tenth Month, 1652,
-he first saw him at Malton in Yorkshire, to which place he, T. T.,
-had accompanied William Dewsbury, where, in an assembly of brethren and friends,
-John Whitehead`'s "`mouth was opened in prayer to the Lord.`"
-In the First or Second Month of the year following,
-"`at a meeting of the Lord`'s people at Butterwick,`" he again met with him;
-and he was then "`preciously opened in testimony for the Lord.`"
-Thus rapidly did the seed sown in the good soil, spring up and bring forth fruit.
-After this meeting at Butterwick, he again returned to Scarborough,
-for he did not leave the army till the following summer.
-"`He then (T. T. continues) came into Holderness,
-there labouring with his hands in the harvest time;
-after which it was with him to go into the Moors, to preach the Gospel of Jesus Christ:
-in part of which journey I accompanied him;
-and truly it was a very comfortable time to me.
-Oh! the living power and wisdom of God with which he was then attended:
-I am greatly affected with the remembrance of it.
-Oh! the precious meetings; and the heart-breaking power of the love of God,
-which then was manifested in our assemblies.`"
+Joseph Storr, as has been mentioned, was arrested and committed with "`William Dewsbury,
+while waiting to hear the issue of his examination.
 
-The following Letter, without date, was probably written about this time:]
+Francis Ellington was an extensive woollen manufacturer, and resided at Wellingborough.
+He went to Northampton to hear the examination of his friends,
+and was then charged by the justices with a misdemeanour,
+because he had written a letter to them,
+in which he accused them of injustice towards William Dewsbury and Joseph Storr; and,
+on his refusing to give security for good behaviour, he was sent to the same prison.
 
-[.embedded-content-document.letter]
---
+Henry Williamson from Cumberland,
+who stated on his examination that he was moved of
+the Lord to come there to declare his word,
+was imprisoned for speaking to the people after the public service was concluded.
 
-[.salutation]
-Dear Brethren and Sisters,
+Edward Ferman, who was a shoemaker in the employment of Thomas Cocket, next mentioned,
+having addressed the people in the steeple-house at Farndon,
+after the priest had ended his performance,
+was charged with interrupting him in his service;
+but the priest failing to substantiate his charge,
+Edward Ferman was committed to prison for three months as a vagrant.
 
-You who are begotten again of the Word of Truth,
-my love in the Lord Jesus extends to you all.
-Every one of you beware of lusting after the flesh-pots
-of Egypt,--earth and earthly things,
-or after the merchandize of Babylon, and enticing words of man`'s wisdom,
-which the Lord in his eternal love has called you from, by revealing his Son in you,
-who is the living bread that came down from heaven.
+Thomas Cocket, of Dingley, having applied to the justices on behalf of Edward Ferman,
+testifying that he was not a vagrant, but an industrious, honest man,
+was required to find security for good behaviour,
+on pretence that he had written an abusive letter to one Justice Brown;^
+footnote:[This letter consists of about six lines;
+the only part that could by any possibility be construed into abuse is
+the concluding sentence--"`In persecuting one of Christ`'s little ones,
+you have done it unto Him, and woe is your portion.`"]
+and on refusing to do so, was sent to jail with his brethren.
 
-Dear brethren, forsake not this living mercy for outward things,
-though never so seemingly glorious, for they all perish in the using;
-but "`the Word of the Lord endures forever:`" when it goes forth,
-it gives understanding to the simple, and the soul of the needy is refreshed by it.
-Therefore wait every one within yourselves to hear the joyful sound;
-and every one of you dwell in obedience to that which is made manifest,
-and so more will be communicated.
+John Hutchin and Michael Patteson were sent to prison
+at the instigation of the priest of Wellingborough,
+under pretence of their having disturbed him in his office.
+This disturbance appears to have consisted in their entering
+the steeple-house and standing there in silence,
+while he was preaching.
 
-You must all give an account of your stewardship.
-Oh! therefore, be faithful, that you may do it with joy, and not with grief;
-and trifle not away this day of the Lord`'s love and mercy;
-for now there is balm in Gilead, and a Physician near your souls.
-See therefore that your health be recovered by Him,
-and that you neglect not so great salvation.
-For notwithstanding the vain imaginations of any, and their hard thoughts of the Lord,
-yet his arms of love are stretched out still; but how long you know not.
+These men, having been thus unjustly imprisoned,
+were retained in jail until the Northampton court sessions,
+held on the 21st of Fifth Month, 1655, when they were brought before the Judge,
+Edward Atkins.
+He inquired of the jailer whether the men who were standing at the bar were prisoners;
+and on being answered affirmatively,
+told him he deserved to be fined ten pounds for allowing them to come before him covered.
+He had apparently received information respecting them out of court,
+and although more than "`willing to do their enemies a pleasure,`" was led during
+the examination to blame them for irregularity in their proceedings towards Friends,
+inquiring, "`why they troubled him with that which there was no matter of fact in?`"
+William Dewsbury was the only one who had any witness brought against him;
+one Robert Beeton declared upon oath that, "`on the 29th of December, 1654,
+he (William Dewsbury) went into the Church at Wellingborough,
+and stood with his hat on in the time of the sermon and prayer,
+and after the minister had done, spoke these words, '`The priests preach for hire,
+and the people love to have it so;
+but what will you do in the end thereof?`' with other railing words,
+which made a disturbance among the people.`"
+The others were called up; but were scarcely allowed to say anything in their defence,
+or rather in claim of justice.
+When they urged that as the charges brought against them, (trivial as they were,
+and involving the breach of no law), had not been proved by witnesses,
+they ought to be acquitted, the Judge replied, "`Common fame is a good accuser,
+though not a good judge; yet I am satisfied, from what I have heard,
+to continue you in prison,
+unless you will lay in bond to be of good behaviour and appear at the next court sessions,
+for you are by common fame accused to be a dangerous
+people and breakers of the public peace.`"
+They were accordingly taken back to the prison.
 
-Therefore let none be careless, but singly strive to enter in at the strait gate;
-for many strive and are not able,
-because they would have their own wills and wisdom kept alive,
-with the profit and vain delights of this world,
-which keep them captive in the broad way that leads to destruction.
-But my brethren, not as unbelieving or disobedient,
-put on strength in the power of the Lord, who has called you,
-and press on by the strait gate, where the earthly will and wisdom are kept in death,
-and so receive the kingdom of heaven,
-as those who forsake their own wills and reasonings,
-and yield themselves up into the love and mercy of the Lord;
-and as you mind to be guided by his pure counsel, though your strength seem weakness,
-yet nothing shall be able to separate you from his love;
-but as conquerors you must pass out of death into life.
+In allusion to an absurd demand made by Thomas Pentlow and Thomas Andrews to John Whitehead,
+that he should prove by the Scriptures that he was sent to preach the Gospel in Northamptonshire,
+he says:]
 
-Therefore be strong in the Lord every one of you,
-and give up what you have and are into his will: let not carnal pleasures allure you,
-nor carnal fears cause you to distrust; but "`run with patience,
-that race which is set before you.`"
-Be not slothful but diligent, for to this end has he chosen you,
-that you might manifest the riches of his love, and bring forth fruit to his praise.
-And faint not in your way, for the time of refreshment comes on quickly,
-when the redeemed of the Lord shall walk in Zion,
-with songs and everlasting joy upon their heads,
-singing the songs of their deliverance,--hallelujahs
-and praises to Him who sits on the throne,
-and judges the earth in righteousness.
+[.small-break]
+'''
 
-Therefore fear and tremble, you careless ones, who have lost your first love;
-strengthen that which remains lest you walk in darkness.
-And you that halt between God and the world,
-that which you lust after and account so profitable and delightful,
-shall depart from you: for this world passes away, and all the comforts which it affords,
-and it will leave you naked and bare before Him, whose love you have rejected,
-and whose counsel you have despised.
-Oh! therefore, lay it to heart, and consider how you will be able to stand before Him,
-when He arises to plead with you in his fiery indignation?
-Now you have time prize it; forsake that which is earthly,
-and chose that which is eternal--you cannot have both.
-Be not sayers only, but doers, lest you cause the worthy name of God to be blasphemed,
-and so bring upon yourselves swift destruction.
+I having received Christ Jesus, am by him sent to preach the Gospel,
+and not by man nor by the will of man; and the Gospel which I declare,
+I have freely received not from man, nor by man, neither was I taught it,
+but by the revelation of Jesus Christ,
+who by the working of his power has made me a minister of the Spirit,
+not of the letter nor of man.
+And this call is not contrary to the Scripture;
+but is the same that the holy men of God witnessed,
+who were eye-witnesses and ministers of the Word;
+and did declare the things they had heard and seen,
+and were taught by the revelation of Jesus Christ;
+and they were sent by him from city to city, and from village to village,
+to preach the Gospel; and they knew his voice,
+and were by his Spirit shown where the Lord had much people,
+and directed where they should go, and not by man nor by the Scripture.
+The Lord Jesus, of whom the Scripture testifies, called them by name and sent them forth,
+and they knew his voice.
+And the same Christ has called me, and I know his voice,
+whom the Father has revealed in me by the working of his mighty power.
+And by his Spirit I was commanded to leave my near and dear relations and outward employments,
+to preach Christ Jesus the Light of the world to them that dwell in the earth,
+which the darkness covers, and to turn their minds from darkness to the "`true Light,
+which enlightens every man that comes into the world,`"
+and from the power of Satan unto God.
+(Acts 26:18;
+John 1:9) And by the Spirit of the Lord Jesus I am directed where I shall go,
+as the true ministers of Christ ever were:
+and a dispensation of the Gospel is committed unto me, not by the will of man,
+but by the will of God, and woe unto me if I preach it not:
+but the love of Christ Jesus constrains me to declare it,
+and to spread it abroad in the world, that men may believe and be saved.
+And this call is not contrary to the Scripture,
+but the same that all the ministers of Christ had, as the Scripture testifies.
+But I know that I shall be as one speaking parables,
+and not be believed by the sons of the bondwoman, who are born after the flesh,
+and persecute those who are born after the Spirit.
+For they are a wicked and adulterous generation, and seek after a sign,
+saying to those who are sent by the Spirit to preach Christ crucified and risen again,
+the Light of the world, "`If you be sent, as the Apostles were,
+and have the same Spirit that they had, show us a sign or a miracle,
+that we may see it and believe.`"
 
-Dear children, you that are called and chosen, my desire is,
-that you may be kept stedfast unto the end.
-So I commit you all to the tender mercies of our God,
-who never leaves nor forsakes those who trust in him.
-Let this be read among you when you are met together.
+[.small-break]
+'''
 
-Written from the spirit of the Lord, by your brother in the truth of the gospel.
++++[+++After remarking,
+that in the primitive Church the power to work miracles was not conferred
+on all who had the same Spirit and by it testified of the Truth;
+and that the unbelieving Jews sought for a sign of Christ,
+but had none given but that of the prophet Jonas, he continues:^
+footnote:[It may not be amiss to remind the reader of the
+following remarkable paragraph in [.book-title]#G. Fox`'s Journal,#
+1649:--"`Many great and wonderful things were wrought
+by the Heavenly Power in those days;
+for the Lord made bare his omnipotent arm,
+and manifested his power to the astonishment of many;
+by the healing virtue whereof many have been delivered from great infirmities,
+and the devils were made subject through his name;
+of which particular instances might be given,
+beyond what this unbelieving age is able to receive or bear.`"]]
 
-[.signed-section-signature]
-John Whitehead.
+[.small-break]
+'''
 
-[.postscript]
-====
-
-I am now about to go into the Moors,
-where I hear there is much hungering after the Truth;
-when I shall return I know nothing of.
-Therefore pray for me,
-that I may be kept faithful to declare the Truth as it is revealed in me.
-
-====
-
---
+But I testify unto you that, except you believe in the Light, and walk in the Light,
+you shall die in your sins: and the Light which convinces you of sin,
+will witness God to be just in your condemnation.
+(John 3:19) And I to Him shall be a sweet savour,
+both in them that are saved and in them that perish;
+who am not sent to feed the wise of the world with knowledge,
+nor those who stumble at the Light with a sign, but to preach Jesus Christ,
+the Light of the world, (who was crucified and is risen again,) and the daily cross:
+and this is to them that perish, foolishness; but to those who are saved,
+the power of God and the wisdom of God.
